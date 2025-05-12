@@ -1,25 +1,41 @@
 import { NextResponse } from "next/server"
-import { getAllLogos } from "@/lib/api"
+import { getAllLogos, searchLogosByQuery, getLogosByCategory } from "@/lib/api"
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url)
-  const query = searchParams.get("q")
-  const category = searchParams.get("category")
 
-  let logos = await getAllLogos()
+  const query = searchParams.get("q")?.toLowerCase() || ""
+  const category = searchParams.get("category") || ""
+  const page = parseInt(searchParams.get("page") || "1", 10)
+  const limit = parseInt(searchParams.get("limit") || "50", 10)
+
+  let logos
+  let total
+  let hasMore
 
   if (query) {
-    const searchQuery = query.toLowerCase()
-    logos = logos.filter(
-      (logo) =>
-        logo.name.toLowerCase().includes(searchQuery) ||
-        logo.tags.some((tag) => tag.toLowerCase().includes(searchQuery)),
-    )
+    // Search logos by query
+    const result = await searchLogosByQuery(query, page, limit)
+    logos = result.logos
+    total = result.total
+    hasMore = result.hasMore
+  } else if (category) {
+    // Get logos by category
+    const result = await getLogosByCategory(category, page, limit)
+    logos = result.logos
+    total = result.total
+    hasMore = result.hasMore
+  } else {
+    // Get all logos with pagination
+    const result = await getAllLogos(page, limit)
+    logos = result.logos
+    total = result.total
+    hasMore = result.hasMore
   }
 
-  if (category) {
-    logos = logos.filter((logo) => logo.category === category)
-  }
-
-  return NextResponse.json(logos)
+  return NextResponse.json({
+    logos,
+    total,
+    hasMore,
+  })
 }

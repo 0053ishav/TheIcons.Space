@@ -1,13 +1,16 @@
 export interface Logo {
-  id: string
-  name: string
-  description: string
-  svgUrl: string
-  category: string
-  tags: string[]
-  license: string
-  created: string
-  updated: string
+  name: string;
+  slug: string;
+  hex: string;
+  svgFilePath: string;
+  pngFilePath: string;
+  id?: string;
+  description?: string;
+  category?: string;
+  tags?: string[];
+  license?: string;
+  created?: string;
+  updated?: string;
 }
 
 export interface Category {

@@ -1,4 +1,6 @@
 # IconSpace
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![SimpleIcons](https://img.shields.io/badge/icons-SimpleIcons-orange?logo=simpleicons)
 
 **IconSpace** is a clean, searchable collection of developer-centric technology icons — including frameworks, languages, platforms, tools, and services — available in **SVG** and **PNG** formats. Built for developers, designers, and makers who need reliable, accessible tech logos for their projects.
 
@@ -25,16 +27,16 @@
 ```bash
 /
 ├── public/
-│   └── icons/           # All icons in SVG & PNG
+│   └── icons/            # Optimized SVG & PNG icons sourced from SimpleIcons
 ├── app/
 │   ├── icon/
-│   ├── logo/
 │   └── api/
 ├── components/
 ├── hooks/
 ├── lib/
 ├── icons.json           # Icon metadata (name, slug, tags, etc.)
 ├── README.md
+├── LICENSE
 ````
 
 
@@ -63,3 +65,8 @@ Please open an issue before submitting large changes.
 
 Connect via [Mail](https://mail.ishav.space) or [@Ishav07 on X](https://x.com/Ishav07)
 This is just the beginning — let’s make developer icon access simple and seamless.
+
+## 📄 License
+
+Code is licensed under the [MIT License](LICENSE).  
+Icons are from [SimpleIcons](https://simpleicons.org), licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).

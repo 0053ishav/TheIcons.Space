@@ -1,108 +1,166 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import { useSearchParams } from "next/navigation"
 import Link from "next/link"
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { motion } from "framer-motion"
-import type { Logo } from "@/lib/types"
+import { Button } from "@/components/ui/button"
+import { Logo } from "@/lib/types"
+import Image from "next/image"
 
 interface LogoGridProps {
-  logos: Logo[]
+  initialLogos: Logo[]
   initialQuery?: string
   initialCategory?: string
+  totalIcons: number
+  hasMore: boolean
+  currentPage: number
 }
 
-export function LogoGrid({ logos, initialQuery = "", initialCategory = "" }: LogoGridProps) {
-  const [filteredLogos, setFilteredLogos] = useState<Logo[]>([])
-  const [isLoading, setIsLoading] = useState(true)
+export function LogoGrid({
+  initialLogos = [],
+  initialQuery = "",
+  initialCategory = "",
+  totalIcons,
+  hasMore: initialHasMore,
+  currentPage,
+}: LogoGridProps) {
+  const searchParams = useSearchParams()
+  const [logos, setLogos] = useState<Logo[]>(initialLogos)
+  const [page, setPage] = useState(currentPage)
+  const [hasMore, setHasMore] = useState(initialHasMore)
+  const [loading, setLoading] = useState(false)
+
+  const query = searchParams.get("q") || ""
+  const category = searchParams.get("category") || ""
 
   useEffect(() => {
-    setIsLoading(true)
+    const fetchLogos = async () => {
+      setLoading(true)
 
-    let filtered = [...logos]
+      const params = new URLSearchParams()
+      params.set("page", "1")
+      if (query) params.set("q", query)
+      if (category) params.set("category", category)
 
-    if (initialQuery) {
-      const query = initialQuery.toLowerCase()
-      filtered = filtered.filter(
-        (logo) => logo.name.toLowerCase().includes(query) || logo.tags.some((tag) => tag.toLowerCase().includes(query)),
-      )
+      const res = await fetch(`/api/icons?${params.toString()}`)
+      const data = await res.json()
+
+      setLogos(data.logos)
+      setHasMore(data.hasMore)
+      setPage(1)
+      setLoading(false)
     }
 
-    if (initialCategory) {
-      filtered = filtered.filter((logo) => logo.category === initialCategory)
-    }
+    fetchLogos()
+  }, [query, category])
 
-    setFilteredLogos(filtered)
-    setIsLoading(false)
-  }, [logos, initialQuery, initialCategory])
+  const fetchMore = async () => {
+    setLoading(true)
 
-  if (isLoading) {
-    return (
-      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-6">
-        {Array.from({ length: 12 }).map((_, i) => (
-          <Card key={i} className="h-full bg-card/50">
-            <CardContent className="p-4 flex flex-col items-center justify-center h-full">
-              <div className="w-16 h-16 bg-muted rounded-md animate-pulse mb-2"></div>
-              <div className="h-4 w-20 bg-muted rounded animate-pulse"></div>
-            </CardContent>
-          </Card>
-        ))}
-      </div>
-    )
+    const params = new URLSearchParams()
+    params.set("page", (page + 1).toString())
+    if (query) params.set("q", query)
+    if (category) params.set("category", category)
+
+    const res = await fetch(`/api/icons?${params.toString()}`)
+    const data = await res.json()
+
+    setLogos((prev) => [...prev, ...data.logos])
+    setHasMore(data.hasMore)
+    setPage((prev) => prev + 1)
+    setLoading(false)
   }
 
-  if (filteredLogos.length === 0) {
+  if (logos.length === 0) {
     return (
-      <motion.div
-        className="text-center py-20"
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ duration: 0.5 }}
-      >
-        <h3 className="text-xl font-semibold mb-3 text-foreground">No icons found</h3>
-        <p className="text-muted-foreground max-w-md mx-auto">
-          Try adjusting your search or filter criteria, or consider contributing this icon to our database!
-        </p>
-      </motion.div>
+      <div className="text-center py-16">
+        <h3 className="text-xl font-semibold mb-2">No icons found</h3>
+        <p className="text-muted-foreground">Try adjusting your search or filter criteria</p>
+      </div>
     )
   }
 
   return (
     <div>
-      <p className="text-sm text-muted-foreground mb-6 text-center">
-        Showing {filteredLogos.length} {filteredLogos.length === 1 ? "icon" : "icons"}
-      </p>
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-6">
-        {filteredLogos.map((logo, index) => (
+        {logos.map((logo, index) => (
           <motion.div
-            key={logo.id}
+            key={logo.slug + index}
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.3, delay: index * 0.03 }}
+            transition={{ duration: 0.3, delay: Math.min(index * 0.02, 1) }}
           >
-            <Link href={`/icon/${logo.id}`}>
-              <Card className="card-hover bg-card/60 backdrop-blur-sm">
-                <CardContent className="p-6 flex flex-col items-center justify-center h-full">
-                  <div className="w-16 h-16 flex items-center justify-center mb-3 group-hover:scale-110 transition-transform">
-                    <motion.img
-                      src={logo.svgUrl || "/placeholder.svg"}
-                      alt={logo.name}
-                      className="max-w-full max-h-full"
-                      whileHover={{ scale: 1.1 }}
-                      transition={{ type: "spring", stiffness: 400, damping: 10 }}
-                    />
+            <Link href={`/icon/${logo.slug}`}>
+              <Card className="hover:shadow-md transition-all hover:border-primary/50 cursor-pointer h-full overflow-hidden group">
+              <CardContent className="bg-gradient-to-r dark:from-gray-700 dark:to-gray-900 p-6 flex flex-col items-center justify-center h-full">
+              <div className="w-16 h-16 flex items-center justify-center mb-3 group-hover:scale-110 transition-transform">
+                    <LazyImage src={logo.svgFilePath} alt={logo.name} className="max-w-full max-h-full" />
                   </div>
                   <p className="text-center font-medium text-sm mb-2">{logo.name}</p>
-                  <Badge variant="secondary" className="text-xs bg-secondary/40 backdrop-blur-sm">
-                    {logo.category}
-                  </Badge>
+                  {logo.category && (
+                    <Badge variant="secondary" className="text-xs">
+                      {logo.category}
+                    </Badge>
+                  )}
                 </CardContent>
               </Card>
             </Link>
           </motion.div>
         ))}
       </div>
+
+      {hasMore && (
+        <div className="flex justify-center mt-12">
+          <Button onClick={fetchMore} disabled={loading} variant="outline">
+            {loading ? "Loading..." : "Load More Icons"}
+          </Button>
+        </div>
+      )}
+
+      <p className="text-sm text-muted-foreground my-4 text-center">
+        Showing {logos.length} of {totalIcons} {totalIcons === 1 ? "icon" : "icons"}
+      </p>
+    </div>
+  )
+}
+
+function LazyImage({ src, alt, className }: { src: string; alt: string; className?: string }) {
+  const [isLoaded, setIsLoaded] = useState(false)
+  const [isInView, setIsInView] = useState(false)
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setIsInView(true)
+        }
+      },
+      { threshold: 0.1, rootMargin: "100px" }
+    )
+    const element = document.querySelector(`[data-src="${src}"]`)
+    if (element) observer.observe(element)
+    return () => {
+      if (element) observer.unobserve(element)
+    }
+  }, [src])
+
+  return (
+    <div className={`relative ${className}`} data-src={src}>
+      {!isLoaded && <div className="absolute inset-0 bg-muted animate-pulse rounded" />}
+      {isInView && (
+        <Image
+          src={src || "/placeholder.svg"}
+          alt={alt}
+          width={70}
+          height={70}
+          className={`${className} ${isLoaded ? "opacity-100" : "opacity-0"} transition-opacity duration-300`}
+          onLoad={() => setIsLoaded(true)}
+          loading="lazy"
+        />
+      )}
     </div>
   )
 }

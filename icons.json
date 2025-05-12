@@ -1,0 +1,3162 @@
+[
+  {
+    "name": "30 seconds of code",
+    "slug": "30-seconds-of-code",
+    "hex": "5395FD",
+    "svgFilePath": "/icons/30-seconds-of-code.svg",
+    "pngFilePath": "/icons/30-seconds-of-code.png",
+    "category": "tools"
+  },
+  {
+    "name": "Advent Of Code",
+    "slug": "advent-of-code",
+    "hex": "FFFF66",
+    "svgFilePath": "/icons/advent-of-code.svg",
+    "pngFilePath": "/icons/advent-of-code.png",
+    "category": "tools"
+  },
+  {
+    "name": "Agora",
+    "slug": "agora",
+    "hex": "099DFD",
+    "svgFilePath": "/icons/agora.svg",
+    "pngFilePath": "/icons/agora.png",
+    "category": "backend"
+  },
+  {
+    "name": "AirPlay Video",
+    "slug": "airplay-video",
+    "hex": "000000",
+    "svgFilePath": "/icons/airplay-video.svg",
+    "pngFilePath": "/icons/airplay-video.png",
+    "category": "tools"
+  },
+  {
+    "name": "Algolia",
+    "slug": "algolia",
+    "hex": "003DFF",
+    "svgFilePath": "/icons/algolia.svg",
+    "pngFilePath": "/icons/algolia.png",
+    "category": "backend"
+  },
+  {
+    "name": "Algorand",
+    "slug": "algorand",
+    "hex": "000000",
+    "svgFilePath": "/icons/algorand.svg",
+    "pngFilePath": "/icons/algorand.png",
+    "category": "backend"
+  },
+  {
+    "name": "Alibaba Cloud",
+    "slug": "alibaba-cloud",
+    "hex": "FF6A00",
+    "svgFilePath": "/icons/alibaba-cloud.svg",
+    "pngFilePath": "/icons/alibaba-cloud.png",
+    "category": "devops"
+  },
+  {
+    "name": "AliExpress",
+    "slug": "aliexpress",
+    "hex": "FF4747",
+    "svgFilePath": "/icons/aliexpress.svg",
+    "pngFilePath": "/icons/aliexpress.png",
+    "category": "backend"
+  },
+  {
+    "name": "AllTrails",
+    "slug": "alltrails",
+    "hex": "142800",
+    "svgFilePath": "/icons/alltrails.svg",
+    "pngFilePath": "/icons/alltrails.png",
+    "category": "tools"
+  },
+  {
+    "name": "AlmaLinux",
+    "slug": "almalinux",
+    "hex": "000000",
+    "svgFilePath": "/icons/almalinux.svg",
+    "pngFilePath": "/icons/almalinux.png",
+    "category": "tools"
+  },
+  {
+    "name": "Alpine Linux",
+    "slug": "alpine-linux",
+    "hex": "0D597F",
+    "svgFilePath": "/icons/alpine-linux.svg",
+    "pngFilePath": "/icons/alpine-linux.png",
+    "category": "tools"
+  },
+  {
+    "name": "Amazon API Gateway",
+    "slug": "amazon-api-gateway",
+    "hex": "FF4F8B",
+    "svgFilePath": "/icons/amazon-api-gateway.svg",
+    "pngFilePath": "/icons/amazon-api-gateway.png",
+    "category": "backend"
+  },
+  {
+    "name": "Amazon CloudWatch",
+    "slug": "amazon-cloudwatch",
+    "hex": "FF4F8B",
+    "svgFilePath": "/icons/amazon-cloudwatch.svg",
+    "pngFilePath": "/icons/amazon-cloudwatch.png",
+    "category": "devops"
+  },
+  {
+    "name": "Amazon Identity Access Management",
+    "slug": "amazon-identity-access-management",
+    "hex": "DD344C",
+    "svgFilePath": "/icons/amazon-identity-access-management.svg",
+    "pngFilePath": "/icons/amazon-identity-access-management.png",
+    "category": "tools"
+  },
+  {
+    "name": "Amazon Web Services",
+    "slug": "amazon-web-services",
+    "hex": "232F3E",
+    "svgFilePath": "/icons/amazon-web-services.svg",
+    "pngFilePath": "/icons/amazon-web-services.png",
+    "category": "frontend"
+  },
+  {
+    "name": "American Express",
+    "slug": "american-express",
+    "hex": "2E77BC",
+    "svgFilePath": "/icons/american-express.svg",
+    "pngFilePath": "/icons/american-express.png",
+    "category": "backend"
+  },
+  {
+    "name": "Android",
+    "slug": "android",
+    "hex": "3DDC84",
+    "svgFilePath": "/icons/android.svg",
+    "pngFilePath": "/icons/android.png",
+    "category": "tools"
+  },
+  {
+    "name": "Android Auto",
+    "slug": "android-auto",
+    "hex": "3DDC84",
+    "svgFilePath": "/icons/android-auto.svg",
+    "pngFilePath": "/icons/android-auto.png",
+    "category": "tools"
+  },
+  {
+    "name": "Android Studio",
+    "slug": "android-studio",
+    "hex": "3DDC84",
+    "svgFilePath": "/icons/android-studio.svg",
+    "pngFilePath": "/icons/android-studio.png",
+    "category": "tools"
+  },
+  {
+    "name": "Angular",
+    "slug": "angular",
+    "hex": "0F0F11",
+    "svgFilePath": "/icons/angular.svg",
+    "pngFilePath": "/icons/angular.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Apache CloudStack",
+    "slug": "apache-cloudstack",
+    "hex": "2AA5DC",
+    "svgFilePath": "/icons/apache-cloudstack.svg",
+    "pngFilePath": "/icons/apache-cloudstack.png",
+    "category": "devops"
+  },
+  {
+    "name": "Apache NetBeans IDE",
+    "slug": "apache-netbeans-ide",
+    "hex": "1B6AC6",
+    "svgFilePath": "/icons/apache-netbeans-ide.svg",
+    "pngFilePath": "/icons/apache-netbeans-ide.png",
+    "category": "tools"
+  },
+  {
+    "name": "Apifox",
+    "slug": "apifox",
+    "hex": "F44A53",
+    "svgFilePath": "/icons/apifox.svg",
+    "pngFilePath": "/icons/apifox.png",
+    "category": "backend"
+  },
+  {
+    "name": "APM Terminals",
+    "slug": "apm-terminals",
+    "hex": "FF6441",
+    "svgFilePath": "/icons/apm-terminals.svg",
+    "pngFilePath": "/icons/apm-terminals.png",
+    "category": "tools"
+  },
+  {
+    "name": "ArangoDB",
+    "slug": "arangodb",
+    "hex": "DDDF72",
+    "svgFilePath": "/icons/arangodb.svg",
+    "pngFilePath": "/icons/arangodb.png",
+    "category": "backend"
+  },
+  {
+    "name": "Arch Linux",
+    "slug": "arch-linux",
+    "hex": "1793D1",
+    "svgFilePath": "/icons/arch-linux.svg",
+    "pngFilePath": "/icons/arch-linux.png",
+    "category": "tools"
+  },
+  {
+    "name": "Argo",
+    "slug": "argo",
+    "hex": "EF7B4D",
+    "svgFilePath": "/icons/argo.svg",
+    "pngFilePath": "/icons/argo.png",
+    "category": "backend"
+  },
+  {
+    "name": "Argos",
+    "slug": "argos",
+    "hex": "DA291C",
+    "svgFilePath": "/icons/argos.svg",
+    "pngFilePath": "/icons/argos.png",
+    "category": "backend"
+  },
+  {
+    "name": "Artix Linux",
+    "slug": "artix-linux",
+    "hex": "10A0CC",
+    "svgFilePath": "/icons/artix-linux.svg",
+    "pngFilePath": "/icons/artix-linux.png",
+    "category": "tools"
+  },
+  {
+    "name": "Asahi Linux",
+    "slug": "asahi-linux",
+    "hex": "A61200",
+    "svgFilePath": "/icons/asahi-linux.svg",
+    "pngFilePath": "/icons/asahi-linux.png",
+    "category": "tools"
+  },
+  {
+    "name": "AWS Amplify",
+    "slug": "aws-amplify",
+    "hex": "FF9900",
+    "svgFilePath": "/icons/aws-amplify.svg",
+    "pngFilePath": "/icons/aws-amplify.png",
+    "category": "devops"
+  },
+  {
+    "name": "AWS Elastic Load Balancing",
+    "slug": "aws-elastic-load-balancing",
+    "hex": "8C4FFF",
+    "svgFilePath": "/icons/aws-elastic-load-balancing.svg",
+    "pngFilePath": "/icons/aws-elastic-load-balancing.png",
+    "category": "devops"
+  },
+  {
+    "name": "AWS Fargate",
+    "slug": "aws-fargate",
+    "hex": "FF9900",
+    "svgFilePath": "/icons/aws-fargate.svg",
+    "pngFilePath": "/icons/aws-fargate.png",
+    "category": "devops"
+  },
+  {
+    "name": "AWS Lambda",
+    "slug": "aws-lambda",
+    "hex": "FF9900",
+    "svgFilePath": "/icons/aws-lambda.svg",
+    "pngFilePath": "/icons/aws-lambda.png",
+    "category": "devops"
+  },
+  {
+    "name": "AWS Organizations",
+    "slug": "aws-organizations",
+    "hex": "E7157B",
+    "svgFilePath": "/icons/aws-organizations.svg",
+    "pngFilePath": "/icons/aws-organizations.png",
+    "category": "devops"
+  },
+  {
+    "name": "AWS Secrets Manager",
+    "slug": "aws-secrets-manager",
+    "hex": "DD344C",
+    "svgFilePath": "/icons/aws-secrets-manager.svg",
+    "pngFilePath": "/icons/aws-secrets-manager.png",
+    "category": "devops"
+  },
+  {
+    "name": "Axios",
+    "slug": "axios",
+    "hex": "5A29E4",
+    "svgFilePath": "/icons/axios.svg",
+    "pngFilePath": "/icons/axios.png",
+    "category": "tools"
+  },
+  {
+    "name": "Babel",
+    "slug": "babel",
+    "hex": "F9DC3E",
+    "svgFilePath": "/icons/babel.svg",
+    "pngFilePath": "/icons/babel.png",
+    "category": "tools"
+  },
+  {
+    "name": "Babelio",
+    "slug": "babelio",
+    "hex": "FBB91E",
+    "svgFilePath": "/icons/babelio.svg",
+    "pngFilePath": "/icons/babelio.png",
+    "category": "tools"
+  },
+  {
+    "name": "Backendless",
+    "slug": "backendless",
+    "hex": "1D77BD",
+    "svgFilePath": "/icons/backendless.svg",
+    "pngFilePath": "/icons/backendless.png",
+    "category": "tools"
+  },
+  {
+    "name": "BisectHosting",
+    "slug": "bisecthosting",
+    "hex": "0D1129",
+    "svgFilePath": "/icons/bisecthosting.svg",
+    "pngFilePath": "/icons/bisecthosting.png",
+    "category": "tools"
+  },
+  {
+    "name": "Bitbucket",
+    "slug": "bitbucket",
+    "hex": "0052CC",
+    "svgFilePath": "/icons/bitbucket.svg",
+    "pngFilePath": "/icons/bitbucket.png",
+    "category": "tools"
+  },
+  {
+    "name": "BMC Software",
+    "slug": "bmc-software",
+    "hex": "FE5000",
+    "svgFilePath": "/icons/bmc-software.svg",
+    "pngFilePath": "/icons/bmc-software.png",
+    "category": "tools"
+  },
+  {
+    "name": "CakePHP",
+    "slug": "cakephp",
+    "hex": "D33C43",
+    "svgFilePath": "/icons/cakephp.svg",
+    "pngFilePath": "/icons/cakephp.png",
+    "category": "backend"
+  },
+  {
+    "name": "Calibre-Web",
+    "slug": "calibre-web",
+    "hex": "45B29D",
+    "svgFilePath": "/icons/calibre-web.svg",
+    "pngFilePath": "/icons/calibre-web.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Chrome Web Store",
+    "slug": "chrome-web-store",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/chrome-web-store.svg",
+    "pngFilePath": "/icons/chrome-web-store.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Clever Cloud",
+    "slug": "clever-cloud",
+    "hex": "171C36",
+    "svgFilePath": "/icons/clever-cloud.svg",
+    "pngFilePath": "/icons/clever-cloud.png",
+    "category": "devops"
+  },
+  {
+    "name": "ClickHouse",
+    "slug": "clickhouse",
+    "hex": "FFCC01",
+    "svgFilePath": "/icons/clickhouse.svg",
+    "pngFilePath": "/icons/clickhouse.png",
+    "category": "tools"
+  },
+  {
+    "name": "ClickUp",
+    "slug": "clickup",
+    "hex": "7B68EE",
+    "svgFilePath": "/icons/clickup.svg",
+    "pngFilePath": "/icons/clickup.png",
+    "category": "tools"
+  },
+  {
+    "name": "CLion",
+    "slug": "clion",
+    "hex": "000000",
+    "svgFilePath": "/icons/clion.svg",
+    "pngFilePath": "/icons/clion.png",
+    "category": "tools"
+  },
+  {
+    "name": "Cloud 66",
+    "slug": "cloud-66",
+    "hex": "3C72B9",
+    "svgFilePath": "/icons/cloud-66.svg",
+    "pngFilePath": "/icons/cloud-66.png",
+    "category": "devops"
+  },
+  {
+    "name": "Cloud Foundry",
+    "slug": "cloud-foundry",
+    "hex": "0C9ED5",
+    "svgFilePath": "/icons/cloud-foundry.svg",
+    "pngFilePath": "/icons/cloud-foundry.png",
+    "category": "devops"
+  },
+  {
+    "name": "CloudBees",
+    "slug": "cloudbees",
+    "hex": "1997B5",
+    "svgFilePath": "/icons/cloudbees.svg",
+    "pngFilePath": "/icons/cloudbees.png",
+    "category": "database"
+  },
+  {
+    "name": "CloudCannon",
+    "slug": "cloudcannon",
+    "hex": "407AFC",
+    "svgFilePath": "/icons/cloudcannon.svg",
+    "pngFilePath": "/icons/cloudcannon.png",
+    "category": "devops"
+  },
+  {
+    "name": "Cloudera",
+    "slug": "cloudera",
+    "hex": "F96702",
+    "svgFilePath": "/icons/cloudera.svg",
+    "pngFilePath": "/icons/cloudera.png",
+    "category": "devops"
+  },
+  {
+    "name": "Cloudflare",
+    "slug": "cloudflare",
+    "hex": "F38020",
+    "svgFilePath": "/icons/cloudflare.svg",
+    "pngFilePath": "/icons/cloudflare.png",
+    "category": "devops"
+  },
+  {
+    "name": "Cloudflare Pages",
+    "slug": "cloudflare-pages",
+    "hex": "F38020",
+    "svgFilePath": "/icons/cloudflare-pages.svg",
+    "pngFilePath": "/icons/cloudflare-pages.png",
+    "category": "devops"
+  },
+  {
+    "name": "Cloudflare Workers",
+    "slug": "cloudflare-workers",
+    "hex": "F38020",
+    "svgFilePath": "/icons/cloudflare-workers.svg",
+    "pngFilePath": "/icons/cloudflare-workers.png",
+    "category": "devops"
+  },
+  {
+    "name": "Cloudinary",
+    "slug": "cloudinary",
+    "hex": "3448C5",
+    "svgFilePath": "/icons/cloudinary.svg",
+    "pngFilePath": "/icons/cloudinary.png",
+    "category": "devops"
+  },
+  {
+    "name": "Cloudron",
+    "slug": "cloudron",
+    "hex": "03A9F4",
+    "svgFilePath": "/icons/cloudron.svg",
+    "pngFilePath": "/icons/cloudron.png",
+    "category": "devops"
+  },
+  {
+    "name": "Cloudsmith",
+    "slug": "cloudsmith",
+    "hex": "2A6FE1",
+    "svgFilePath": "/icons/cloudsmith.svg",
+    "pngFilePath": "/icons/cloudsmith.png",
+    "category": "devops"
+  },
+  {
+    "name": "Cloudways",
+    "slug": "cloudways",
+    "hex": "2C39BD",
+    "svgFilePath": "/icons/cloudways.svg",
+    "pngFilePath": "/icons/cloudways.png",
+    "category": "devops"
+  },
+  {
+    "name": "Code Climate",
+    "slug": "code-climate",
+    "hex": "000000",
+    "svgFilePath": "/icons/code-climate.svg",
+    "pngFilePath": "/icons/code-climate.png",
+    "category": "tools"
+  },
+  {
+    "name": "Code::Blocks",
+    "slug": "code__blocks",
+    "hex": "41AD48",
+    "svgFilePath": "/icons/code__blocks.svg",
+    "pngFilePath": "/icons/code__blocks.png",
+    "category": "tools"
+  },
+  {
+    "name": "Codeberg",
+    "slug": "codeberg",
+    "hex": "2185D0",
+    "svgFilePath": "/icons/codeberg.svg",
+    "pngFilePath": "/icons/codeberg.png",
+    "category": "tools"
+  },
+  {
+    "name": "Codecademy",
+    "slug": "codecademy",
+    "hex": "1F4056",
+    "svgFilePath": "/icons/codecademy.svg",
+    "pngFilePath": "/icons/codecademy.png",
+    "category": "tools"
+  },
+  {
+    "name": "CodeceptJS",
+    "slug": "codeceptjs",
+    "hex": "F6E05E",
+    "svgFilePath": "/icons/codeceptjs.svg",
+    "pngFilePath": "/icons/codeceptjs.png",
+    "category": "frontend"
+  },
+  {
+    "name": "CodeChef",
+    "slug": "codechef",
+    "hex": "5B4638",
+    "svgFilePath": "/icons/codechef.svg",
+    "pngFilePath": "/icons/codechef.png",
+    "category": "tools"
+  },
+  {
+    "name": "Codecov",
+    "slug": "codecov",
+    "hex": "F01F7A",
+    "svgFilePath": "/icons/codecov.svg",
+    "pngFilePath": "/icons/codecov.png",
+    "category": "tools"
+  },
+  {
+    "name": "CodeCrafters",
+    "slug": "codecrafters",
+    "hex": "171920",
+    "svgFilePath": "/icons/codecrafters.svg",
+    "pngFilePath": "/icons/codecrafters.png",
+    "category": "tools"
+  },
+  {
+    "name": "CodeFactor",
+    "slug": "codefactor",
+    "hex": "F44A6A",
+    "svgFilePath": "/icons/codefactor.svg",
+    "pngFilePath": "/icons/codefactor.png",
+    "category": "tools"
+  },
+  {
+    "name": "Codeforces",
+    "slug": "codeforces",
+    "hex": "1F8ACB",
+    "svgFilePath": "/icons/codeforces.svg",
+    "pngFilePath": "/icons/codeforces.png",
+    "category": "tools"
+  },
+  {
+    "name": "Codefresh",
+    "slug": "codefresh",
+    "hex": "08B1AB",
+    "svgFilePath": "/icons/codefresh.svg",
+    "pngFilePath": "/icons/codefresh.png",
+    "category": "tools"
+  },
+  {
+    "name": "CodeIgniter",
+    "slug": "codeigniter",
+    "hex": "EF4223",
+    "svgFilePath": "/icons/codeigniter.svg",
+    "pngFilePath": "/icons/codeigniter.png",
+    "category": "tools"
+  },
+  {
+    "name": "Codeium",
+    "slug": "codeium",
+    "hex": "09B6A2",
+    "svgFilePath": "/icons/codeium.svg",
+    "pngFilePath": "/icons/codeium.png",
+    "category": "tools"
+  },
+  {
+    "name": "Codemagic",
+    "slug": "codemagic",
+    "hex": "F45E3F",
+    "svgFilePath": "/icons/codemagic.svg",
+    "pngFilePath": "/icons/codemagic.png",
+    "category": "tools"
+  },
+  {
+    "name": "Codementor",
+    "slug": "codementor",
+    "hex": "003648",
+    "svgFilePath": "/icons/codementor.svg",
+    "pngFilePath": "/icons/codementor.png",
+    "category": "tools"
+  },
+  {
+    "name": "CodeMirror",
+    "slug": "codemirror",
+    "hex": "D30707",
+    "svgFilePath": "/icons/codemirror.svg",
+    "pngFilePath": "/icons/codemirror.png",
+    "category": "tools"
+  },
+  {
+    "name": "CodeNewbie",
+    "slug": "codenewbie",
+    "hex": "9013FE",
+    "svgFilePath": "/icons/codenewbie.svg",
+    "pngFilePath": "/icons/codenewbie.png",
+    "category": "tools"
+  },
+  {
+    "name": "CodePen",
+    "slug": "codepen",
+    "hex": "000000",
+    "svgFilePath": "/icons/codepen.svg",
+    "pngFilePath": "/icons/codepen.png",
+    "category": "tools"
+  },
+  {
+    "name": "CodeProject",
+    "slug": "codeproject",
+    "hex": "FF9900",
+    "svgFilePath": "/icons/codeproject.svg",
+    "pngFilePath": "/icons/codeproject.png",
+    "category": "tools"
+  },
+  {
+    "name": "Coder",
+    "slug": "coder",
+    "hex": "000000",
+    "svgFilePath": "/icons/coder.svg",
+    "pngFilePath": "/icons/coder.png",
+    "category": "tools"
+  },
+  {
+    "name": "CodersRank",
+    "slug": "codersrank",
+    "hex": "67A4AC",
+    "svgFilePath": "/icons/codersrank.svg",
+    "pngFilePath": "/icons/codersrank.png",
+    "category": "tools"
+  },
+  {
+    "name": "Coderwall",
+    "slug": "coderwall",
+    "hex": "3E8DCC",
+    "svgFilePath": "/icons/coderwall.svg",
+    "pngFilePath": "/icons/coderwall.png",
+    "category": "tools"
+  },
+  {
+    "name": "CodeSandbox",
+    "slug": "codesandbox",
+    "hex": "151515",
+    "svgFilePath": "/icons/codesandbox.svg",
+    "pngFilePath": "/icons/codesandbox.png",
+    "category": "database"
+  },
+  {
+    "name": "Codeship",
+    "slug": "codeship",
+    "hex": "004466",
+    "svgFilePath": "/icons/codeship.svg",
+    "pngFilePath": "/icons/codeship.png",
+    "category": "tools"
+  },
+  {
+    "name": "CodeSignal",
+    "slug": "codesignal",
+    "hex": "1062FB",
+    "svgFilePath": "/icons/codesignal.svg",
+    "pngFilePath": "/icons/codesignal.png",
+    "category": "design"
+  },
+  {
+    "name": "CodeStream",
+    "slug": "codestream",
+    "hex": "008C99",
+    "svgFilePath": "/icons/codestream.svg",
+    "pngFilePath": "/icons/codestream.png",
+    "category": "tools"
+  },
+  {
+    "name": "Codewars",
+    "slug": "codewars",
+    "hex": "B1361E",
+    "svgFilePath": "/icons/codewars.svg",
+    "pngFilePath": "/icons/codewars.png",
+    "category": "tools"
+  },
+  {
+    "name": "Common Workflow Language",
+    "slug": "common-workflow-language",
+    "hex": "B5314C",
+    "svgFilePath": "/icons/common-workflow-language.svg",
+    "pngFilePath": "/icons/common-workflow-language.png",
+    "category": "tools"
+  },
+  {
+    "name": "Create React App",
+    "slug": "create-react-app",
+    "hex": "09D3AC",
+    "svgFilePath": "/icons/create-react-app.svg",
+    "pngFilePath": "/icons/create-react-app.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Cycling '74",
+    "slug": "cycling-_74",
+    "hex": "111111",
+    "svgFilePath": "/icons/cycling-_74.svg",
+    "pngFilePath": "/icons/cycling-_74.png",
+    "category": "tools"
+  },
+  {
+    "name": "Cypress",
+    "slug": "cypress",
+    "hex": "69D3A7",
+    "svgFilePath": "/icons/cypress.svg",
+    "pngFilePath": "/icons/cypress.png",
+    "category": "tools"
+  },
+  {
+    "name": "DevExpress",
+    "slug": "devexpress",
+    "hex": "FF7200",
+    "svgFilePath": "/icons/devexpress.svg",
+    "pngFilePath": "/icons/devexpress.png",
+    "category": "backend"
+  },
+  {
+    "name": "DigitalOcean",
+    "slug": "digitalocean",
+    "hex": "0080FF",
+    "svgFilePath": "/icons/digitalocean.svg",
+    "pngFilePath": "/icons/digitalocean.png",
+    "category": "devops"
+  },
+  {
+    "name": "Django",
+    "slug": "django",
+    "hex": "092E20",
+    "svgFilePath": "/icons/django.svg",
+    "pngFilePath": "/icons/django.png",
+    "category": "backend"
+  },
+  {
+    "name": "Docker",
+    "slug": "docker",
+    "hex": "2496ED",
+    "svgFilePath": "/icons/docker.svg",
+    "pngFilePath": "/icons/docker.png",
+    "category": "devops"
+  },
+  {
+    "name": "Dragonframe",
+    "slug": "dragonframe",
+    "hex": "D4911E",
+    "svgFilePath": "/icons/dragonframe.svg",
+    "pngFilePath": "/icons/dragonframe.png",
+    "category": "backend"
+  },
+  {
+    "name": "DS Automobiles",
+    "slug": "ds-automobiles",
+    "hex": "1D1717",
+    "svgFilePath": "/icons/ds-automobiles.svg",
+    "pngFilePath": "/icons/ds-automobiles.png",
+    "category": "tools"
+  },
+  {
+    "name": "DuckDuckGo",
+    "slug": "duckduckgo",
+    "hex": "DE5833",
+    "svgFilePath": "/icons/duckduckgo.svg",
+    "pngFilePath": "/icons/duckduckgo.png",
+    "category": "backend"
+  },
+  {
+    "name": "Dungeons & Dragons",
+    "slug": "dungeons-and-dragons",
+    "hex": "ED1C24",
+    "svgFilePath": "/icons/dungeons-and-dragons.svg",
+    "pngFilePath": "/icons/dungeons-and-dragons.png",
+    "category": "backend"
+  },
+  {
+    "name": "Duolingo",
+    "slug": "duolingo",
+    "hex": "58CC02",
+    "svgFilePath": "/icons/duolingo.svg",
+    "pngFilePath": "/icons/duolingo.png",
+    "category": "backend"
+  },
+  {
+    "name": "Eclipse Adoptium",
+    "slug": "eclipse-adoptium",
+    "hex": "FF1464",
+    "svgFilePath": "/icons/eclipse-adoptium.svg",
+    "pngFilePath": "/icons/eclipse-adoptium.png",
+    "category": "tools"
+  },
+  {
+    "name": "Eclipse Che",
+    "slug": "eclipse-che",
+    "hex": "525C86",
+    "svgFilePath": "/icons/eclipse-che.svg",
+    "pngFilePath": "/icons/eclipse-che.png",
+    "category": "tools"
+  },
+  {
+    "name": "Eclipse IDE",
+    "slug": "eclipse-ide",
+    "hex": "2C2255",
+    "svgFilePath": "/icons/eclipse-ide.svg",
+    "pngFilePath": "/icons/eclipse-ide.png",
+    "category": "tools"
+  },
+  {
+    "name": "Eclipse Jetty",
+    "slug": "eclipse-jetty",
+    "hex": "FC390E",
+    "svgFilePath": "/icons/eclipse-jetty.svg",
+    "pngFilePath": "/icons/eclipse-jetty.png",
+    "category": "tools"
+  },
+  {
+    "name": "Eclipse Mosquitto",
+    "slug": "eclipse-mosquitto",
+    "hex": "3C5280",
+    "svgFilePath": "/icons/eclipse-mosquitto.svg",
+    "pngFilePath": "/icons/eclipse-mosquitto.png",
+    "category": "tools"
+  },
+  {
+    "name": "Eclipse Vert.x",
+    "slug": "eclipse-vert_x",
+    "hex": "782A90",
+    "svgFilePath": "/icons/eclipse-vert_x.svg",
+    "pngFilePath": "/icons/eclipse-vert_x.png",
+    "category": "tools"
+  },
+  {
+    "name": "EditorConfig",
+    "slug": "editorconfig",
+    "hex": "FEFEFE",
+    "svgFilePath": "/icons/editorconfig.svg",
+    "pngFilePath": "/icons/editorconfig.png",
+    "category": "tools"
+  },
+  {
+    "name": "Elastic Cloud",
+    "slug": "elastic-cloud",
+    "hex": "005571",
+    "svgFilePath": "/icons/elastic-cloud.svg",
+    "pngFilePath": "/icons/elastic-cloud.png",
+    "category": "devops"
+  },
+  {
+    "name": "Elegoo",
+    "slug": "elegoo",
+    "hex": "2C3A83",
+    "svgFilePath": "/icons/elegoo.svg",
+    "pngFilePath": "/icons/elegoo.png",
+    "category": "backend"
+  },
+  {
+    "name": "ESLint",
+    "slug": "eslint",
+    "hex": "4B32C3",
+    "svgFilePath": "/icons/eslint.svg",
+    "pngFilePath": "/icons/eslint.png",
+    "category": "tools"
+  },
+  {
+    "name": "Esoteric Software",
+    "slug": "esoteric-software",
+    "hex": "3FA9F5",
+    "svgFilePath": "/icons/esoteric-software.svg",
+    "pngFilePath": "/icons/esoteric-software.png",
+    "category": "tools"
+  },
+  {
+    "name": "Express",
+    "slug": "express",
+    "hex": "000000",
+    "svgFilePath": "/icons/express.svg",
+    "pngFilePath": "/icons/express.png",
+    "category": "backend"
+  },
+  {
+    "name": "Express.com",
+    "slug": "express_com",
+    "hex": "000000",
+    "svgFilePath": "/icons/express_com.svg",
+    "pngFilePath": "/icons/express_com.png",
+    "category": "backend"
+  },
+  {
+    "name": "ExpressVPN",
+    "slug": "expressvpn",
+    "hex": "DA3940",
+    "svgFilePath": "/icons/expressvpn.svg",
+    "pngFilePath": "/icons/expressvpn.png",
+    "category": "backend"
+  },
+  {
+    "name": "Fandango",
+    "slug": "fandango",
+    "hex": "FF7300",
+    "svgFilePath": "/icons/fandango.svg",
+    "pngFilePath": "/icons/fandango.png",
+    "category": "backend"
+  },
+  {
+    "name": "FastAPI",
+    "slug": "fastapi",
+    "hex": "009688",
+    "svgFilePath": "/icons/fastapi.svg",
+    "pngFilePath": "/icons/fastapi.png",
+    "category": "backend"
+  },
+  {
+    "name": "Firebase",
+    "slug": "firebase",
+    "hex": "DD2C00",
+    "svgFilePath": "/icons/firebase.svg",
+    "pngFilePath": "/icons/firebase.png",
+    "category": "tools"
+  },
+  {
+    "name": "Flask",
+    "slug": "flask",
+    "hex": "000000",
+    "svgFilePath": "/icons/flask.svg",
+    "pngFilePath": "/icons/flask.png",
+    "category": "tools"
+  },
+  {
+    "name": "Framework",
+    "slug": "framework",
+    "hex": "000000",
+    "svgFilePath": "/icons/framework.svg",
+    "pngFilePath": "/icons/framework.png",
+    "category": "tools"
+  },
+  {
+    "name": "Framework7",
+    "slug": "framework7",
+    "hex": "EE350F",
+    "svgFilePath": "/icons/framework7.svg",
+    "pngFilePath": "/icons/framework7.png",
+    "category": "tools"
+  },
+  {
+    "name": "freeCodeCamp",
+    "slug": "freecodecamp",
+    "hex": "0A0A23",
+    "svgFilePath": "/icons/freecodecamp.svg",
+    "pngFilePath": "/icons/freecodecamp.png",
+    "category": "tools"
+  },
+  {
+    "name": "freedesktop.org",
+    "slug": "freedesktop_org",
+    "hex": "3B80AE",
+    "svgFilePath": "/icons/freedesktop_org.svg",
+    "pngFilePath": "/icons/freedesktop_org.png",
+    "category": "tools"
+  },
+  {
+    "name": "Frontend Mentor",
+    "slug": "frontend-mentor",
+    "hex": "3F54A3",
+    "svgFilePath": "/icons/frontend-mentor.svg",
+    "pngFilePath": "/icons/frontend-mentor.png",
+    "category": "tools"
+  },
+  {
+    "name": "Fuga Cloud",
+    "slug": "fuga-cloud",
+    "hex": "242F4B",
+    "svgFilePath": "/icons/fuga-cloud.svg",
+    "pngFilePath": "/icons/fuga-cloud.png",
+    "category": "devops"
+  },
+  {
+    "name": "Git",
+    "slug": "git",
+    "hex": "F05032",
+    "svgFilePath": "/icons/git.svg",
+    "pngFilePath": "/icons/git.png",
+    "category": "devops"
+  },
+  {
+    "name": "Git Extensions",
+    "slug": "git-extensions",
+    "hex": "212121",
+    "svgFilePath": "/icons/git-extensions.svg",
+    "pngFilePath": "/icons/git-extensions.png",
+    "category": "devops"
+  },
+  {
+    "name": "Git for Windows",
+    "slug": "git-for-windows",
+    "hex": "80B3FF",
+    "svgFilePath": "/icons/git-for-windows.svg",
+    "pngFilePath": "/icons/git-for-windows.png",
+    "category": "devops"
+  },
+  {
+    "name": "Git LFS",
+    "slug": "git-lfs",
+    "hex": "F64935",
+    "svgFilePath": "/icons/git-lfs.svg",
+    "pngFilePath": "/icons/git-lfs.png",
+    "category": "devops"
+  },
+  {
+    "name": "GitBook",
+    "slug": "gitbook",
+    "hex": "BBDDE5",
+    "svgFilePath": "/icons/gitbook.svg",
+    "pngFilePath": "/icons/gitbook.png",
+    "category": "devops"
+  },
+  {
+    "name": "Gitconnected",
+    "slug": "gitconnected",
+    "hex": "2E69AE",
+    "svgFilePath": "/icons/gitconnected.svg",
+    "pngFilePath": "/icons/gitconnected.png",
+    "category": "devops"
+  },
+  {
+    "name": "Gitea",
+    "slug": "gitea",
+    "hex": "609926",
+    "svgFilePath": "/icons/gitea.svg",
+    "pngFilePath": "/icons/gitea.png",
+    "category": "devops"
+  },
+  {
+    "name": "Gitee",
+    "slug": "gitee",
+    "hex": "C71D23",
+    "svgFilePath": "/icons/gitee.svg",
+    "pngFilePath": "/icons/gitee.png",
+    "category": "devops"
+  },
+  {
+    "name": "GitHub",
+    "slug": "github",
+    "hex": "181717",
+    "svgFilePath": "/icons/github.svg",
+    "pngFilePath": "/icons/github.png",
+    "category": "devops"
+  },
+  {
+    "name": "GitHub Actions",
+    "slug": "github-actions",
+    "hex": "2088FF",
+    "svgFilePath": "/icons/github-actions.svg",
+    "pngFilePath": "/icons/github-actions.png",
+    "category": "devops"
+  },
+  {
+    "name": "GitHub Copilot",
+    "slug": "github-copilot",
+    "hex": "000000",
+    "svgFilePath": "/icons/github-copilot.svg",
+    "pngFilePath": "/icons/github-copilot.png",
+    "category": "devops"
+  },
+  {
+    "name": "GitHub Pages",
+    "slug": "github-pages",
+    "hex": "222222",
+    "svgFilePath": "/icons/github-pages.svg",
+    "pngFilePath": "/icons/github-pages.png",
+    "category": "devops"
+  },
+  {
+    "name": "GitHub Sponsors",
+    "slug": "github-sponsors",
+    "hex": "EA4AAA",
+    "svgFilePath": "/icons/github-sponsors.svg",
+    "pngFilePath": "/icons/github-sponsors.png",
+    "category": "devops"
+  },
+  {
+    "name": "gitignore.io",
+    "slug": "gitignore_io",
+    "hex": "204ECF",
+    "svgFilePath": "/icons/gitignore_io.svg",
+    "pngFilePath": "/icons/gitignore_io.png",
+    "category": "devops"
+  },
+  {
+    "name": "GitKraken",
+    "slug": "gitkraken",
+    "hex": "179287",
+    "svgFilePath": "/icons/gitkraken.svg",
+    "pngFilePath": "/icons/gitkraken.png",
+    "category": "devops"
+  },
+  {
+    "name": "GitLab",
+    "slug": "gitlab",
+    "hex": "FC6D26",
+    "svgFilePath": "/icons/gitlab.svg",
+    "pngFilePath": "/icons/gitlab.png",
+    "category": "devops"
+  },
+  {
+    "name": "Gitpod",
+    "slug": "gitpod",
+    "hex": "FFAE33",
+    "svgFilePath": "/icons/gitpod.svg",
+    "pngFilePath": "/icons/gitpod.png",
+    "category": "devops"
+  },
+  {
+    "name": "Gitter",
+    "slug": "gitter",
+    "hex": "ED1965",
+    "svgFilePath": "/icons/gitter.svg",
+    "pngFilePath": "/icons/gitter.png",
+    "category": "devops"
+  },
+  {
+    "name": "Glide",
+    "slug": "glide",
+    "hex": "18BED4",
+    "svgFilePath": "/icons/glide.svg",
+    "pngFilePath": "/icons/glide.png",
+    "category": "tools"
+  },
+  {
+    "name": "GNOME Terminal",
+    "slug": "gnome-terminal",
+    "hex": "241F31",
+    "svgFilePath": "/icons/gnome-terminal.svg",
+    "pngFilePath": "/icons/gnome-terminal.png",
+    "category": "tools"
+  },
+  {
+    "name": "GNU Emacs",
+    "slug": "gnu-emacs",
+    "hex": "7F5AB6",
+    "svgFilePath": "/icons/gnu-emacs.svg",
+    "pngFilePath": "/icons/gnu-emacs.png",
+    "category": "tools"
+  },
+  {
+    "name": "Go",
+    "slug": "go",
+    "hex": "00ADD8",
+    "svgFilePath": "/icons/go.svg",
+    "pngFilePath": "/icons/go.png",
+    "category": "backend"
+  },
+  {
+    "name": "GoCD",
+    "slug": "gocd",
+    "hex": "94399E",
+    "svgFilePath": "/icons/gocd.svg",
+    "pngFilePath": "/icons/gocd.png",
+    "category": "backend"
+  },
+  {
+    "name": "GoDaddy",
+    "slug": "godaddy",
+    "hex": "1BDBDB",
+    "svgFilePath": "/icons/godaddy.svg",
+    "pngFilePath": "/icons/godaddy.png",
+    "category": "backend"
+  },
+  {
+    "name": "Godot Engine",
+    "slug": "godot-engine",
+    "hex": "478CBF",
+    "svgFilePath": "/icons/godot-engine.svg",
+    "pngFilePath": "/icons/godot-engine.png",
+    "category": "backend"
+  },
+  {
+    "name": "GoFundMe",
+    "slug": "gofundme",
+    "hex": "00B964",
+    "svgFilePath": "/icons/gofundme.svg",
+    "pngFilePath": "/icons/gofundme.png",
+    "category": "backend"
+  },
+  {
+    "name": "GOG.com",
+    "slug": "gog_com",
+    "hex": "86328A",
+    "svgFilePath": "/icons/gog_com.svg",
+    "pngFilePath": "/icons/gog_com.png",
+    "category": "backend"
+  },
+  {
+    "name": "Gojek",
+    "slug": "gojek",
+    "hex": "00AA13",
+    "svgFilePath": "/icons/gojek.svg",
+    "pngFilePath": "/icons/gojek.png",
+    "category": "backend"
+  },
+  {
+    "name": "GoLand",
+    "slug": "goland",
+    "hex": "000000",
+    "svgFilePath": "/icons/goland.svg",
+    "pngFilePath": "/icons/goland.png",
+    "category": "backend"
+  },
+  {
+    "name": "GoldenLine",
+    "slug": "goldenline",
+    "hex": "FFE005",
+    "svgFilePath": "/icons/goldenline.svg",
+    "pngFilePath": "/icons/goldenline.png",
+    "category": "backend"
+  },
+  {
+    "name": "Goldman Sachs",
+    "slug": "goldman-sachs",
+    "hex": "7399C6",
+    "svgFilePath": "/icons/goldman-sachs.svg",
+    "pngFilePath": "/icons/goldman-sachs.png",
+    "category": "backend"
+  },
+  {
+    "name": "Goodreads",
+    "slug": "goodreads",
+    "hex": "372213",
+    "svgFilePath": "/icons/goodreads.svg",
+    "pngFilePath": "/icons/goodreads.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google",
+    "slug": "google",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google.svg",
+    "pngFilePath": "/icons/google.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google AdMob",
+    "slug": "google-admob",
+    "hex": "EA4335",
+    "svgFilePath": "/icons/google-admob.svg",
+    "pngFilePath": "/icons/google-admob.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Ads",
+    "slug": "google-ads",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-ads.svg",
+    "pngFilePath": "/icons/google-ads.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google AdSense",
+    "slug": "google-adsense",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-adsense.svg",
+    "pngFilePath": "/icons/google-adsense.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Analytics",
+    "slug": "google-analytics",
+    "hex": "E37400",
+    "svgFilePath": "/icons/google-analytics.svg",
+    "pngFilePath": "/icons/google-analytics.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Apps Script",
+    "slug": "google-apps-script",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-apps-script.svg",
+    "pngFilePath": "/icons/google-apps-script.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Assistant",
+    "slug": "google-assistant",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-assistant.svg",
+    "pngFilePath": "/icons/google-assistant.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Authenticator",
+    "slug": "google-authenticator",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-authenticator.svg",
+    "pngFilePath": "/icons/google-authenticator.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google BigQuery",
+    "slug": "google-bigquery",
+    "hex": "669DF6",
+    "svgFilePath": "/icons/google-bigquery.svg",
+    "pngFilePath": "/icons/google-bigquery.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Bigtable",
+    "slug": "google-bigtable",
+    "hex": "669DF6",
+    "svgFilePath": "/icons/google-bigtable.svg",
+    "pngFilePath": "/icons/google-bigtable.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Calendar",
+    "slug": "google-calendar",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-calendar.svg",
+    "pngFilePath": "/icons/google-calendar.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Campaign Manager 360",
+    "slug": "google-campaign-manager-360",
+    "hex": "1E8E3E",
+    "svgFilePath": "/icons/google-campaign-manager-360.svg",
+    "pngFilePath": "/icons/google-campaign-manager-360.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Cardboard",
+    "slug": "google-cardboard",
+    "hex": "FF7143",
+    "svgFilePath": "/icons/google-cardboard.svg",
+    "pngFilePath": "/icons/google-cardboard.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Chat",
+    "slug": "google-chat",
+    "hex": "34A853",
+    "svgFilePath": "/icons/google-chat.svg",
+    "pngFilePath": "/icons/google-chat.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Chrome",
+    "slug": "google-chrome",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-chrome.svg",
+    "pngFilePath": "/icons/google-chrome.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Chronicle",
+    "slug": "google-chronicle",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-chronicle.svg",
+    "pngFilePath": "/icons/google-chronicle.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Classroom",
+    "slug": "google-classroom",
+    "hex": "0F9D58",
+    "svgFilePath": "/icons/google-classroom.svg",
+    "pngFilePath": "/icons/google-classroom.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Cloud",
+    "slug": "google-cloud",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-cloud.svg",
+    "pngFilePath": "/icons/google-cloud.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Cloud Composer",
+    "slug": "google-cloud-composer",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-cloud-composer.svg",
+    "pngFilePath": "/icons/google-cloud-composer.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Cloud Spanner",
+    "slug": "google-cloud-spanner",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-cloud-spanner.svg",
+    "pngFilePath": "/icons/google-cloud-spanner.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Cloud Storage",
+    "slug": "google-cloud-storage",
+    "hex": "AECBFA",
+    "svgFilePath": "/icons/google-cloud-storage.svg",
+    "pngFilePath": "/icons/google-cloud-storage.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Colab",
+    "slug": "google-colab",
+    "hex": "F9AB00",
+    "svgFilePath": "/icons/google-colab.svg",
+    "pngFilePath": "/icons/google-colab.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Container Optimized OS",
+    "slug": "google-container-optimized-os",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-container-optimized-os.svg",
+    "pngFilePath": "/icons/google-container-optimized-os.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Data Studio",
+    "slug": "google-data-studio",
+    "hex": "669DF6",
+    "svgFilePath": "/icons/google-data-studio.svg",
+    "pngFilePath": "/icons/google-data-studio.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Dataflow",
+    "slug": "google-dataflow",
+    "hex": "AECBFA",
+    "svgFilePath": "/icons/google-dataflow.svg",
+    "pngFilePath": "/icons/google-dataflow.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Dataproc",
+    "slug": "google-dataproc",
+    "hex": "AECBFA",
+    "svgFilePath": "/icons/google-dataproc.svg",
+    "pngFilePath": "/icons/google-dataproc.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Display & Video 360",
+    "slug": "google-display-and-video-360",
+    "hex": "34A853",
+    "svgFilePath": "/icons/google-display-and-video-360.svg",
+    "pngFilePath": "/icons/google-display-and-video-360.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Docs",
+    "slug": "google-docs",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-docs.svg",
+    "pngFilePath": "/icons/google-docs.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Drive",
+    "slug": "google-drive",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-drive.svg",
+    "pngFilePath": "/icons/google-drive.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Earth",
+    "slug": "google-earth",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-earth.svg",
+    "pngFilePath": "/icons/google-earth.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Earth Engine",
+    "slug": "google-earth-engine",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-earth-engine.svg",
+    "pngFilePath": "/icons/google-earth-engine.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Fit",
+    "slug": "google-fit",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-fit.svg",
+    "pngFilePath": "/icons/google-fit.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Fonts",
+    "slug": "google-fonts",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-fonts.svg",
+    "pngFilePath": "/icons/google-fonts.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Forms",
+    "slug": "google-forms",
+    "hex": "7248B9",
+    "svgFilePath": "/icons/google-forms.svg",
+    "pngFilePath": "/icons/google-forms.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Gemini",
+    "slug": "google-gemini",
+    "hex": "8E75B2",
+    "svgFilePath": "/icons/google-gemini.svg",
+    "pngFilePath": "/icons/google-gemini.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Home",
+    "slug": "google-home",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-home.svg",
+    "pngFilePath": "/icons/google-home.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Keep",
+    "slug": "google-keep",
+    "hex": "FFBB00",
+    "svgFilePath": "/icons/google-keep.svg",
+    "pngFilePath": "/icons/google-keep.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Lens",
+    "slug": "google-lens",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-lens.svg",
+    "pngFilePath": "/icons/google-lens.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Maps",
+    "slug": "google-maps",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-maps.svg",
+    "pngFilePath": "/icons/google-maps.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Marketing Platform",
+    "slug": "google-marketing-platform",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-marketing-platform.svg",
+    "pngFilePath": "/icons/google-marketing-platform.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Meet",
+    "slug": "google-meet",
+    "hex": "00897B",
+    "svgFilePath": "/icons/google-meet.svg",
+    "pngFilePath": "/icons/google-meet.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Messages",
+    "slug": "google-messages",
+    "hex": "1A73E8",
+    "svgFilePath": "/icons/google-messages.svg",
+    "pngFilePath": "/icons/google-messages.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Nearby",
+    "slug": "google-nearby",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-nearby.svg",
+    "pngFilePath": "/icons/google-nearby.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google News",
+    "slug": "google-news",
+    "hex": "174EA6",
+    "svgFilePath": "/icons/google-news.svg",
+    "pngFilePath": "/icons/google-news.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Pay",
+    "slug": "google-pay",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-pay.svg",
+    "pngFilePath": "/icons/google-pay.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Photos",
+    "slug": "google-photos",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-photos.svg",
+    "pngFilePath": "/icons/google-photos.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Play",
+    "slug": "google-play",
+    "hex": "414141",
+    "svgFilePath": "/icons/google-play.svg",
+    "pngFilePath": "/icons/google-play.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Pub/Sub",
+    "slug": "google-pubsub",
+    "hex": "AECBFA",
+    "svgFilePath": "/icons/google-pubsub.svg",
+    "pngFilePath": "/icons/google-pubsub.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Scholar",
+    "slug": "google-scholar",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-scholar.svg",
+    "pngFilePath": "/icons/google-scholar.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Search Console",
+    "slug": "google-search-console",
+    "hex": "458CF5",
+    "svgFilePath": "/icons/google-search-console.svg",
+    "pngFilePath": "/icons/google-search-console.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Sheets",
+    "slug": "google-sheets",
+    "hex": "34A853",
+    "svgFilePath": "/icons/google-sheets.svg",
+    "pngFilePath": "/icons/google-sheets.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Slides",
+    "slug": "google-slides",
+    "hex": "FBBC04",
+    "svgFilePath": "/icons/google-slides.svg",
+    "pngFilePath": "/icons/google-slides.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Street View",
+    "slug": "google-street-view",
+    "hex": "FEC111",
+    "svgFilePath": "/icons/google-street-view.svg",
+    "pngFilePath": "/icons/google-street-view.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Tag Manager",
+    "slug": "google-tag-manager",
+    "hex": "246FDB",
+    "svgFilePath": "/icons/google-tag-manager.svg",
+    "pngFilePath": "/icons/google-tag-manager.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Tasks",
+    "slug": "google-tasks",
+    "hex": "2684FC",
+    "svgFilePath": "/icons/google-tasks.svg",
+    "pngFilePath": "/icons/google-tasks.png",
+    "category": "backend"
+  },
+  {
+    "name": "Google Translate",
+    "slug": "google-translate",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/google-translate.svg",
+    "pngFilePath": "/icons/google-translate.png",
+    "category": "backend"
+  },
+  {
+    "name": "GoToMeeting",
+    "slug": "gotomeeting",
+    "hex": "F68D2E",
+    "svgFilePath": "/icons/gotomeeting.svg",
+    "pngFilePath": "/icons/gotomeeting.png",
+    "category": "backend"
+  },
+  {
+    "name": "H2 Database",
+    "slug": "h2-database",
+    "hex": "09476B",
+    "svgFilePath": "/icons/h2-database.svg",
+    "pngFilePath": "/icons/h2-database.png",
+    "category": "database"
+  },
+  {
+    "name": "Hashnode",
+    "slug": "hashnode",
+    "hex": "2962FF",
+    "svgFilePath": "/icons/hashnode.svg",
+    "pngFilePath": "/icons/hashnode.png",
+    "category": "backend"
+  },
+  {
+    "name": "Hostinger",
+    "slug": "hostinger",
+    "hex": "673DE6",
+    "svgFilePath": "/icons/hostinger.svg",
+    "pngFilePath": "/icons/hostinger.png",
+    "category": "tools"
+  },
+  {
+    "name": "Hugo",
+    "slug": "hugo",
+    "hex": "FF4088",
+    "svgFilePath": "/icons/hugo.svg",
+    "pngFilePath": "/icons/hugo.png",
+    "category": "backend"
+  },
+  {
+    "name": "iCloud",
+    "slug": "icloud",
+    "hex": "3693F3",
+    "svgFilePath": "/icons/icloud.svg",
+    "pngFilePath": "/icons/icloud.png",
+    "category": "devops"
+  },
+  {
+    "name": "IndiGo",
+    "slug": "indigo",
+    "hex": "09009B",
+    "svgFilePath": "/icons/indigo.svg",
+    "pngFilePath": "/icons/indigo.png",
+    "category": "backend"
+  },
+  {
+    "name": "IntelliJ IDEA",
+    "slug": "intellij-idea",
+    "hex": "000000",
+    "svgFilePath": "/icons/intellij-idea.svg",
+    "pngFilePath": "/icons/intellij-idea.png",
+    "category": "tools"
+  },
+  {
+    "name": "iOS",
+    "slug": "ios",
+    "hex": "000000",
+    "svgFilePath": "/icons/ios.svg",
+    "pngFilePath": "/icons/ios.png",
+    "category": "tools"
+  },
+  {
+    "name": "JavaScript",
+    "slug": "javascript",
+    "hex": "F7DF1E",
+    "svgFilePath": "/icons/javascript.svg",
+    "pngFilePath": "/icons/javascript.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Jest",
+    "slug": "jest",
+    "hex": "C21325",
+    "svgFilePath": "/icons/jest.svg",
+    "pngFilePath": "/icons/jest.png",
+    "category": "tools"
+  },
+  {
+    "name": "Jira Software",
+    "slug": "jira-software",
+    "hex": "0052CC",
+    "svgFilePath": "/icons/jira-software.svg",
+    "pngFilePath": "/icons/jira-software.png",
+    "category": "tools"
+  },
+  {
+    "name": "JSON Web Tokens",
+    "slug": "json-web-tokens",
+    "hex": "000000",
+    "svgFilePath": "/icons/json-web-tokens.svg",
+    "pngFilePath": "/icons/json-web-tokens.png",
+    "category": "frontend"
+  },
+  {
+    "name": "KaiOS",
+    "slug": "kaios",
+    "hex": "6F02B5",
+    "svgFilePath": "/icons/kaios.svg",
+    "pngFilePath": "/icons/kaios.png",
+    "category": "tools"
+  },
+  {
+    "name": "Kali Linux",
+    "slug": "kali-linux",
+    "hex": "557C94",
+    "svgFilePath": "/icons/kali-linux.svg",
+    "pngFilePath": "/icons/kali-linux.png",
+    "category": "tools"
+  },
+  {
+    "name": "KeeWeb",
+    "slug": "keeweb",
+    "hex": "528BFF",
+    "svgFilePath": "/icons/keeweb.svg",
+    "pngFilePath": "/icons/keeweb.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Kubernetes",
+    "slug": "kubernetes",
+    "hex": "326CE5",
+    "svgFilePath": "/icons/kubernetes.svg",
+    "pngFilePath": "/icons/kubernetes.png",
+    "category": "devops"
+  },
+  {
+    "name": "LanguageTool",
+    "slug": "languagetool",
+    "hex": "45A1FC",
+    "svgFilePath": "/icons/languagetool.svg",
+    "pngFilePath": "/icons/languagetool.png",
+    "category": "tools"
+  },
+  {
+    "name": "Laragon",
+    "slug": "laragon",
+    "hex": "0E83CD",
+    "svgFilePath": "/icons/laragon.svg",
+    "pngFilePath": "/icons/laragon.png",
+    "category": "backend"
+  },
+  {
+    "name": "Laravel",
+    "slug": "laravel",
+    "hex": "FF2D20",
+    "svgFilePath": "/icons/laravel.svg",
+    "pngFilePath": "/icons/laravel.png",
+    "category": "tools"
+  },
+  {
+    "name": "Laravel Horizon",
+    "slug": "laravel-horizon",
+    "hex": "405263",
+    "svgFilePath": "/icons/laravel-horizon.svg",
+    "pngFilePath": "/icons/laravel-horizon.png",
+    "category": "tools"
+  },
+  {
+    "name": "Laravel Nova",
+    "slug": "laravel-nova",
+    "hex": "252D37",
+    "svgFilePath": "/icons/laravel-nova.svg",
+    "pngFilePath": "/icons/laravel-nova.png",
+    "category": "tools"
+  },
+  {
+    "name": "LazyVim",
+    "slug": "lazyvim",
+    "hex": "2E7DE9",
+    "svgFilePath": "/icons/lazyvim.svg",
+    "pngFilePath": "/icons/lazyvim.png",
+    "category": "tools"
+  },
+  {
+    "name": "LeetCode",
+    "slug": "leetcode",
+    "hex": "FFA116",
+    "svgFilePath": "/icons/leetcode.svg",
+    "pngFilePath": "/icons/leetcode.png",
+    "category": "tools"
+  },
+  {
+    "name": "LintCode",
+    "slug": "lintcode",
+    "hex": "13B4FF",
+    "svgFilePath": "/icons/lintcode.svg",
+    "pngFilePath": "/icons/lintcode.png",
+    "category": "tools"
+  },
+  {
+    "name": "Linux",
+    "slug": "linux",
+    "hex": "FCC624",
+    "svgFilePath": "/icons/linux.svg",
+    "pngFilePath": "/icons/linux.png",
+    "category": "tools"
+  },
+  {
+    "name": "Linux Containers",
+    "slug": "linux-containers",
+    "hex": "333333",
+    "svgFilePath": "/icons/linux-containers.svg",
+    "pngFilePath": "/icons/linux-containers.png",
+    "category": "tools"
+  },
+  {
+    "name": "Linux Foundation",
+    "slug": "linux-foundation",
+    "hex": "003778",
+    "svgFilePath": "/icons/linux-foundation.svg",
+    "pngFilePath": "/icons/linux-foundation.png",
+    "category": "tools"
+  },
+  {
+    "name": "Linux Mint",
+    "slug": "linux-mint",
+    "hex": "86BE43",
+    "svgFilePath": "/icons/linux-mint.svg",
+    "pngFilePath": "/icons/linux-mint.png",
+    "category": "tools"
+  },
+  {
+    "name": "Linux Professional Institute",
+    "slug": "linux-professional-institute",
+    "hex": "FDC300",
+    "svgFilePath": "/icons/linux-professional-institute.svg",
+    "pngFilePath": "/icons/linux-professional-institute.png",
+    "category": "tools"
+  },
+  {
+    "name": "LinuxServer",
+    "slug": "linuxserver",
+    "hex": "DA3B8A",
+    "svgFilePath": "/icons/linuxserver.svg",
+    "pngFilePath": "/icons/linuxserver.png",
+    "category": "backend"
+  },
+  {
+    "name": "Logitech",
+    "slug": "logitech",
+    "hex": "00B8FC",
+    "svgFilePath": "/icons/logitech.svg",
+    "pngFilePath": "/icons/logitech.png",
+    "category": "devops"
+  },
+  {
+    "name": "Logitech G",
+    "slug": "logitech-g",
+    "hex": "00B8FC",
+    "svgFilePath": "/icons/logitech-g.svg",
+    "pngFilePath": "/icons/logitech-g.png",
+    "category": "devops"
+  },
+  {
+    "name": "Lucide",
+    "slug": "lucide",
+    "hex": "F56565",
+    "svgFilePath": "/icons/lucide.svg",
+    "pngFilePath": "/icons/lucide.png",
+    "category": "devops"
+  },
+  {
+    "name": "macOS",
+    "slug": "macos",
+    "hex": "000000",
+    "svgFilePath": "/icons/macos.svg",
+    "pngFilePath": "/icons/macos.png",
+    "category": "tools"
+  },
+  {
+    "name": "Mapillary",
+    "slug": "mapillary",
+    "hex": "00AF66",
+    "svgFilePath": "/icons/mapillary.svg",
+    "pngFilePath": "/icons/mapillary.png",
+    "category": "backend"
+  },
+  {
+    "name": "Matomo",
+    "slug": "matomo",
+    "hex": "3152A0",
+    "svgFilePath": "/icons/matomo.svg",
+    "pngFilePath": "/icons/matomo.png",
+    "category": "tools"
+  },
+  {
+    "name": "MDN Web Docs",
+    "slug": "mdn-web-docs",
+    "hex": "000000",
+    "svgFilePath": "/icons/mdn-web-docs.svg",
+    "pngFilePath": "/icons/mdn-web-docs.png",
+    "category": "frontend"
+  },
+  {
+    "name": "MediaPipe",
+    "slug": "mediapipe",
+    "hex": "0097A7",
+    "svgFilePath": "/icons/mediapipe.svg",
+    "pngFilePath": "/icons/mediapipe.png",
+    "category": "backend"
+  },
+  {
+    "name": "Mercado Pago",
+    "slug": "mercado-pago",
+    "hex": "00B1EA",
+    "svgFilePath": "/icons/mercado-pago.svg",
+    "pngFilePath": "/icons/mercado-pago.png",
+    "category": "backend"
+  },
+  {
+    "name": "Micro Editor",
+    "slug": "micro-editor",
+    "hex": "2E3192",
+    "svgFilePath": "/icons/micro-editor.svg",
+    "pngFilePath": "/icons/micro-editor.png",
+    "category": "tools"
+  },
+  {
+    "name": "MicroPython",
+    "slug": "micropython",
+    "hex": "2B2728",
+    "svgFilePath": "/icons/micropython.svg",
+    "pngFilePath": "/icons/micropython.png",
+    "category": "backend"
+  },
+  {
+    "name": "Mixcloud",
+    "slug": "mixcloud",
+    "hex": "5000FF",
+    "svgFilePath": "/icons/mixcloud.svg",
+    "pngFilePath": "/icons/mixcloud.png",
+    "category": "devops"
+  },
+  {
+    "name": "Mocha",
+    "slug": "mocha",
+    "hex": "8D6748",
+    "svgFilePath": "/icons/mocha.svg",
+    "pngFilePath": "/icons/mocha.png",
+    "category": "tools"
+  },
+  {
+    "name": "MongoDB",
+    "slug": "mongodb",
+    "hex": "47A248",
+    "svgFilePath": "/icons/mongodb.svg",
+    "pngFilePath": "/icons/mongodb.png",
+    "category": "backend"
+  },
+  {
+    "name": "Mongoose",
+    "slug": "mongoose",
+    "hex": "880000",
+    "svgFilePath": "/icons/mongoose.svg",
+    "pngFilePath": "/icons/mongoose.png",
+    "category": "backend"
+  },
+  {
+    "name": "Mongoose",
+    "slug": "mongoose",
+    "hex": "F04D35",
+    "svgFilePath": "/icons/mongoose.svg",
+    "pngFilePath": "/icons/mongoose.png",
+    "category": "backend"
+  },
+  {
+    "name": "MX Linux",
+    "slug": "mx-linux",
+    "hex": "000000",
+    "svgFilePath": "/icons/mx-linux.svg",
+    "pngFilePath": "/icons/mx-linux.png",
+    "category": "tools"
+  },
+  {
+    "name": "MySQL",
+    "slug": "mysql",
+    "hex": "4479A1",
+    "svgFilePath": "/icons/mysql.svg",
+    "pngFilePath": "/icons/mysql.png",
+    "category": "database"
+  },
+  {
+    "name": "Neovim",
+    "slug": "neovim",
+    "hex": "57A143",
+    "svgFilePath": "/icons/neovim.svg",
+    "pngFilePath": "/icons/neovim.png",
+    "category": "tools"
+  },
+  {
+    "name": "NetEase Cloud Music",
+    "slug": "netease-cloud-music",
+    "hex": "D43C33",
+    "svgFilePath": "/icons/netease-cloud-music.svg",
+    "pngFilePath": "/icons/netease-cloud-music.png",
+    "category": "devops"
+  },
+  {
+    "name": "Nextcloud",
+    "slug": "nextcloud",
+    "hex": "0082C9",
+    "svgFilePath": "/icons/nextcloud.svg",
+    "pngFilePath": "/icons/nextcloud.png",
+    "category": "devops"
+  },
+  {
+    "name": "Node-RED",
+    "slug": "node-red",
+    "hex": "8F0000",
+    "svgFilePath": "/icons/node-red.svg",
+    "pngFilePath": "/icons/node-red.png",
+    "category": "backend"
+  },
+  {
+    "name": "Node.js",
+    "slug": "node_js",
+    "hex": "5FA04E",
+    "svgFilePath": "/icons/node_js.svg",
+    "pngFilePath": "/icons/node_js.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Nodemon",
+    "slug": "nodemon",
+    "hex": "76D04B",
+    "svgFilePath": "/icons/nodemon.svg",
+    "pngFilePath": "/icons/nodemon.png",
+    "category": "backend"
+  },
+  {
+    "name": "npm",
+    "slug": "npm",
+    "hex": "CB3837",
+    "svgFilePath": "/icons/npm.svg",
+    "pngFilePath": "/icons/npm.png",
+    "category": "tools"
+  },
+  {
+    "name": "oclif",
+    "slug": "oclif",
+    "hex": "000000",
+    "svgFilePath": "/icons/oclif.svg",
+    "pngFilePath": "/icons/oclif.png",
+    "category": "tools"
+  },
+  {
+    "name": "Omada Cloud",
+    "slug": "omada-cloud",
+    "hex": "10C1D0",
+    "svgFilePath": "/icons/omada-cloud.svg",
+    "pngFilePath": "/icons/omada-cloud.png",
+    "category": "devops"
+  },
+  {
+    "name": "OpenAPI Initiative",
+    "slug": "openapi-initiative",
+    "hex": "6BA539",
+    "svgFilePath": "/icons/openapi-initiative.svg",
+    "pngFilePath": "/icons/openapi-initiative.png",
+    "category": "backend"
+  },
+  {
+    "name": "ownCloud",
+    "slug": "owncloud",
+    "hex": "041E42",
+    "svgFilePath": "/icons/owncloud.svg",
+    "pngFilePath": "/icons/owncloud.png",
+    "category": "devops"
+  },
+  {
+    "name": "Palo Alto Software",
+    "slug": "palo-alto-software",
+    "hex": "83DA77",
+    "svgFilePath": "/icons/palo-alto-software.svg",
+    "pngFilePath": "/icons/palo-alto-software.png",
+    "category": "tools"
+  },
+  {
+    "name": "Papers With Code",
+    "slug": "papers-with-code",
+    "hex": "21CBCE",
+    "svgFilePath": "/icons/papers-with-code.svg",
+    "pngFilePath": "/icons/papers-with-code.png",
+    "category": "tools"
+  },
+  {
+    "name": "Phoenix Framework",
+    "slug": "phoenix-framework",
+    "hex": "FD4F00",
+    "svgFilePath": "/icons/phoenix-framework.svg",
+    "pngFilePath": "/icons/phoenix-framework.png",
+    "category": "tools"
+  },
+  {
+    "name": "PHP",
+    "slug": "php",
+    "hex": "777BB4",
+    "svgFilePath": "/icons/php.svg",
+    "pngFilePath": "/icons/php.png",
+    "category": "backend"
+  },
+  {
+    "name": "phpBB",
+    "slug": "phpbb",
+    "hex": "009BDF",
+    "svgFilePath": "/icons/phpbb.svg",
+    "pngFilePath": "/icons/phpbb.png",
+    "category": "backend"
+  },
+  {
+    "name": "phpMyAdmin",
+    "slug": "phpmyadmin",
+    "hex": "6C78AF",
+    "svgFilePath": "/icons/phpmyadmin.svg",
+    "pngFilePath": "/icons/phpmyadmin.png",
+    "category": "backend"
+  },
+  {
+    "name": "PhpStorm",
+    "slug": "phpstorm",
+    "hex": "000000",
+    "svgFilePath": "/icons/phpstorm.svg",
+    "pngFilePath": "/icons/phpstorm.png",
+    "category": "backend"
+  },
+  {
+    "name": "Piwigo",
+    "slug": "piwigo",
+    "hex": "FF7700",
+    "svgFilePath": "/icons/piwigo.svg",
+    "pngFilePath": "/icons/piwigo.png",
+    "category": "backend"
+  },
+  {
+    "name": "Plus Codes",
+    "slug": "plus-codes",
+    "hex": "4285F4",
+    "svgFilePath": "/icons/plus-codes.svg",
+    "pngFilePath": "/icons/plus-codes.png",
+    "category": "tools"
+  },
+  {
+    "name": "pnpm",
+    "slug": "pnpm",
+    "hex": "F69220",
+    "svgFilePath": "/icons/pnpm.svg",
+    "pngFilePath": "/icons/pnpm.png",
+    "category": "tools"
+  },
+  {
+    "name": "Polygon",
+    "slug": "polygon",
+    "hex": "7B3FE4",
+    "svgFilePath": "/icons/polygon.svg",
+    "pngFilePath": "/icons/polygon.png",
+    "category": "backend"
+  },
+  {
+    "name": "PostgreSQL",
+    "slug": "postgresql",
+    "hex": "4169E1",
+    "svgFilePath": "/icons/postgresql.svg",
+    "pngFilePath": "/icons/postgresql.png",
+    "category": "database"
+  },
+  {
+    "name": "Preact",
+    "slug": "preact",
+    "hex": "673AB8",
+    "svgFilePath": "/icons/preact.svg",
+    "pngFilePath": "/icons/preact.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Prettier",
+    "slug": "prettier",
+    "hex": "F7B93E",
+    "svgFilePath": "/icons/prettier.svg",
+    "pngFilePath": "/icons/prettier.png",
+    "category": "tools"
+  },
+  {
+    "name": "Prime Video",
+    "slug": "prime-video",
+    "hex": "1F2E3E",
+    "svgFilePath": "/icons/prime-video.svg",
+    "pngFilePath": "/icons/prime-video.png",
+    "category": "tools"
+  },
+  {
+    "name": "PrimeReact",
+    "slug": "primereact",
+    "hex": "03C4E8",
+    "svgFilePath": "/icons/primereact.svg",
+    "pngFilePath": "/icons/primereact.png",
+    "category": "frontend"
+  },
+  {
+    "name": "PrimeVue",
+    "slug": "primevue",
+    "hex": "41B883",
+    "svgFilePath": "/icons/primevue.svg",
+    "pngFilePath": "/icons/primevue.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Python",
+    "slug": "python",
+    "hex": "3776AB",
+    "svgFilePath": "/icons/python.svg",
+    "pngFilePath": "/icons/python.png",
+    "category": "backend"
+  },
+  {
+    "name": "PythonAnywhere",
+    "slug": "pythonanywhere",
+    "hex": "1D9FD7",
+    "svgFilePath": "/icons/pythonanywhere.svg",
+    "pngFilePath": "/icons/pythonanywhere.png",
+    "category": "backend"
+  },
+  {
+    "name": "Rapid",
+    "slug": "rapid",
+    "hex": "0055DA",
+    "svgFilePath": "/icons/rapid.svg",
+    "pngFilePath": "/icons/rapid.png",
+    "category": "backend"
+  },
+  {
+    "name": "React",
+    "slug": "react",
+    "hex": "61DAFB",
+    "svgFilePath": "/icons/react.svg",
+    "pngFilePath": "/icons/react.png",
+    "category": "frontend"
+  },
+  {
+    "name": "React Bootstrap",
+    "slug": "react-bootstrap",
+    "hex": "41E0FD",
+    "svgFilePath": "/icons/react-bootstrap.svg",
+    "pngFilePath": "/icons/react-bootstrap.png",
+    "category": "frontend"
+  },
+  {
+    "name": "React Hook Form",
+    "slug": "react-hook-form",
+    "hex": "EC5990",
+    "svgFilePath": "/icons/react-hook-form.svg",
+    "pngFilePath": "/icons/react-hook-form.png",
+    "category": "frontend"
+  },
+  {
+    "name": "React Query",
+    "slug": "react-query",
+    "hex": "FF4154",
+    "svgFilePath": "/icons/react-query.svg",
+    "pngFilePath": "/icons/react-query.png",
+    "category": "frontend"
+  },
+  {
+    "name": "React Router",
+    "slug": "react-router",
+    "hex": "CA4245",
+    "svgFilePath": "/icons/react-router.svg",
+    "pngFilePath": "/icons/react-router.png",
+    "category": "frontend"
+  },
+  {
+    "name": "React Table",
+    "slug": "react-table",
+    "hex": "FF4154",
+    "svgFilePath": "/icons/react-table.svg",
+    "pngFilePath": "/icons/react-table.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Reactive Resume",
+    "slug": "reactive-resume",
+    "hex": "000000",
+    "svgFilePath": "/icons/reactive-resume.svg",
+    "pngFilePath": "/icons/reactive-resume.png",
+    "category": "frontend"
+  },
+  {
+    "name": "ReactiveX",
+    "slug": "reactivex",
+    "hex": "B7178C",
+    "svgFilePath": "/icons/reactivex.svg",
+    "pngFilePath": "/icons/reactivex.png",
+    "category": "frontend"
+  },
+  {
+    "name": "ReactOS",
+    "slug": "reactos",
+    "hex": "0088CC",
+    "svgFilePath": "/icons/reactos.svg",
+    "pngFilePath": "/icons/reactos.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Reason Studios",
+    "slug": "reason-studios",
+    "hex": "FFFFFF",
+    "svgFilePath": "/icons/reason-studios.svg",
+    "pngFilePath": "/icons/reason-studios.png",
+    "category": "tools"
+  },
+  {
+    "name": "Redis",
+    "slug": "redis",
+    "hex": "FF4438",
+    "svgFilePath": "/icons/redis.svg",
+    "pngFilePath": "/icons/redis.png",
+    "category": "database"
+  },
+  {
+    "name": "Redragon",
+    "slug": "redragon",
+    "hex": "E60012",
+    "svgFilePath": "/icons/redragon.svg",
+    "pngFilePath": "/icons/redragon.png",
+    "category": "backend"
+  },
+  {
+    "name": "Refined GitHub",
+    "slug": "refined-github",
+    "hex": "9E95B7",
+    "svgFilePath": "/icons/refined-github.svg",
+    "pngFilePath": "/icons/refined-github.png",
+    "category": "devops"
+  },
+  {
+    "name": "Rezgo",
+    "slug": "rezgo",
+    "hex": "F76C00",
+    "svgFilePath": "/icons/rezgo.svg",
+    "pngFilePath": "/icons/rezgo.png",
+    "category": "backend"
+  },
+  {
+    "name": "Rider",
+    "slug": "rider",
+    "hex": "000000",
+    "svgFilePath": "/icons/rider.svg",
+    "pngFilePath": "/icons/rider.png",
+    "category": "tools"
+  },
+  {
+    "name": "Robot Framework",
+    "slug": "robot-framework",
+    "hex": "000000",
+    "svgFilePath": "/icons/robot-framework.svg",
+    "pngFilePath": "/icons/robot-framework.png",
+    "category": "tools"
+  },
+  {
+    "name": "Rocky Linux",
+    "slug": "rocky-linux",
+    "hex": "10B981",
+    "svgFilePath": "/icons/rocky-linux.svg",
+    "pngFilePath": "/icons/rocky-linux.png",
+    "category": "tools"
+  },
+  {
+    "name": "rollup.js",
+    "slug": "rollup_js",
+    "hex": "EC4A3F",
+    "svgFilePath": "/icons/rollup_js.svg",
+    "pngFilePath": "/icons/rollup_js.png",
+    "category": "frontend"
+  },
+  {
+    "name": "RStudio IDE",
+    "slug": "rstudio-ide",
+    "hex": "75AADB",
+    "svgFilePath": "/icons/rstudio-ide.svg",
+    "pngFilePath": "/icons/rstudio-ide.png",
+    "category": "tools"
+  },
+  {
+    "name": "Ruby",
+    "slug": "ruby",
+    "hex": "CC342D",
+    "svgFilePath": "/icons/ruby.svg",
+    "pngFilePath": "/icons/ruby.png",
+    "category": "backend"
+  },
+  {
+    "name": "Ruby on Rails",
+    "slug": "ruby-on-rails",
+    "hex": "D30001",
+    "svgFilePath": "/icons/ruby-on-rails.svg",
+    "pngFilePath": "/icons/ruby-on-rails.png",
+    "category": "backend"
+  },
+  {
+    "name": "Ruby Sinatra",
+    "slug": "ruby-sinatra",
+    "hex": "000000",
+    "svgFilePath": "/icons/ruby-sinatra.svg",
+    "pngFilePath": "/icons/ruby-sinatra.png",
+    "category": "backend"
+  },
+  {
+    "name": "RubyGems",
+    "slug": "rubygems",
+    "hex": "E9573F",
+    "svgFilePath": "/icons/rubygems.svg",
+    "pngFilePath": "/icons/rubygems.png",
+    "category": "backend"
+  },
+  {
+    "name": "RubyMine",
+    "slug": "rubymine",
+    "hex": "000000",
+    "svgFilePath": "/icons/rubymine.svg",
+    "pngFilePath": "/icons/rubymine.png",
+    "category": "backend"
+  },
+  {
+    "name": "Rumahweb",
+    "slug": "rumahweb",
+    "hex": "2EB4E3",
+    "svgFilePath": "/icons/rumahweb.svg",
+    "pngFilePath": "/icons/rumahweb.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Rust",
+    "slug": "rust",
+    "hex": "000000",
+    "svgFilePath": "/icons/rust.svg",
+    "pngFilePath": "/icons/rust.png",
+    "category": "backend"
+  },
+  {
+    "name": "RustDesk",
+    "slug": "rustdesk",
+    "hex": "024EFF",
+    "svgFilePath": "/icons/rustdesk.svg",
+    "pngFilePath": "/icons/rustdesk.png",
+    "category": "backend"
+  },
+  {
+    "name": "Schneider Electric",
+    "slug": "schneider-electric",
+    "hex": "3DCD58",
+    "svgFilePath": "/icons/schneider-electric.svg",
+    "pngFilePath": "/icons/schneider-electric.png",
+    "category": "tools"
+  },
+  {
+    "name": "Selenium",
+    "slug": "selenium",
+    "hex": "43B02A",
+    "svgFilePath": "/icons/selenium.svg",
+    "pngFilePath": "/icons/selenium.png",
+    "category": "tools"
+  },
+  {
+    "name": "Semantic UI React",
+    "slug": "semantic-ui-react",
+    "hex": "35BDB2",
+    "svgFilePath": "/icons/semantic-ui-react.svg",
+    "pngFilePath": "/icons/semantic-ui-react.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Semantic Web",
+    "slug": "semantic-web",
+    "hex": "005A9C",
+    "svgFilePath": "/icons/semantic-web.svg",
+    "pngFilePath": "/icons/semantic-web.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Server Fault",
+    "slug": "server-fault",
+    "hex": "E7282D",
+    "svgFilePath": "/icons/server-fault.svg",
+    "pngFilePath": "/icons/server-fault.png",
+    "category": "backend"
+  },
+  {
+    "name": "Serverless",
+    "slug": "serverless",
+    "hex": "FD5750",
+    "svgFilePath": "/icons/serverless.svg",
+    "pngFilePath": "/icons/serverless.png",
+    "category": "backend"
+  },
+  {
+    "name": "Sidekiq",
+    "slug": "sidekiq",
+    "hex": "B1003E",
+    "svgFilePath": "/icons/sidekiq.svg",
+    "pngFilePath": "/icons/sidekiq.png",
+    "category": "tools"
+  },
+  {
+    "name": "SideQuest",
+    "slug": "sidequest",
+    "hex": "101227",
+    "svgFilePath": "/icons/sidequest.svg",
+    "pngFilePath": "/icons/sidequest.png",
+    "category": "tools"
+  },
+  {
+    "name": "Similarweb",
+    "slug": "similarweb",
+    "hex": "092540",
+    "svgFilePath": "/icons/similarweb.svg",
+    "pngFilePath": "/icons/similarweb.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Slides",
+    "slug": "slides",
+    "hex": "E4637C",
+    "svgFilePath": "/icons/slides.svg",
+    "pngFilePath": "/icons/slides.png",
+    "category": "tools"
+  },
+  {
+    "name": "SlideShare",
+    "slug": "slideshare",
+    "hex": "008ED2",
+    "svgFilePath": "/icons/slideshare.svg",
+    "pngFilePath": "/icons/slideshare.png",
+    "category": "tools"
+  },
+  {
+    "name": "Snapdragon",
+    "slug": "snapdragon",
+    "hex": "C33139",
+    "svgFilePath": "/icons/snapdragon.svg",
+    "pngFilePath": "/icons/snapdragon.png",
+    "category": "backend"
+  },
+  {
+    "name": "Sogou",
+    "slug": "sogou",
+    "hex": "FB6022",
+    "svgFilePath": "/icons/sogou.svg",
+    "pngFilePath": "/icons/sogou.png",
+    "category": "backend"
+  },
+  {
+    "name": "SonarCloud",
+    "slug": "sonarcloud",
+    "hex": "F3702A",
+    "svgFilePath": "/icons/sonarcloud.svg",
+    "pngFilePath": "/icons/sonarcloud.png",
+    "category": "devops"
+  },
+  {
+    "name": "Songoda",
+    "slug": "songoda",
+    "hex": "FC494A",
+    "svgFilePath": "/icons/songoda.svg",
+    "pngFilePath": "/icons/songoda.png",
+    "category": "backend"
+  },
+  {
+    "name": "SoundCloud",
+    "slug": "soundcloud",
+    "hex": "FF5500",
+    "svgFilePath": "/icons/soundcloud.svg",
+    "pngFilePath": "/icons/soundcloud.png",
+    "category": "devops"
+  },
+  {
+    "name": "Spacemacs",
+    "slug": "spacemacs",
+    "hex": "9266CC",
+    "svgFilePath": "/icons/spacemacs.svg",
+    "pngFilePath": "/icons/spacemacs.png",
+    "category": "tools"
+  },
+  {
+    "name": "SpigotMC",
+    "slug": "spigotmc",
+    "hex": "ED8106",
+    "svgFilePath": "/icons/spigotmc.svg",
+    "pngFilePath": "/icons/spigotmc.png",
+    "category": "backend"
+  },
+  {
+    "name": "Spyder IDE",
+    "slug": "spyder-ide",
+    "hex": "8C0000",
+    "svgFilePath": "/icons/spyder-ide.svg",
+    "pngFilePath": "/icons/spyder-ide.png",
+    "category": "tools"
+  },
+  {
+    "name": "Strapi",
+    "slug": "strapi",
+    "hex": "4945FF",
+    "svgFilePath": "/icons/strapi.svg",
+    "pngFilePath": "/icons/strapi.png",
+    "category": "backend"
+  },
+  {
+    "name": "Sublime Text",
+    "slug": "sublime-text",
+    "hex": "FF9800",
+    "svgFilePath": "/icons/sublime-text.svg",
+    "pngFilePath": "/icons/sublime-text.png",
+    "category": "tools"
+  },
+  {
+    "name": "SVGO",
+    "slug": "svgo",
+    "hex": "3E7FC1",
+    "svgFilePath": "/icons/svgo.svg",
+    "pngFilePath": "/icons/svgo.png",
+    "category": "backend"
+  },
+  {
+    "name": "Take-Two Interactive Software",
+    "slug": "take-two-interactive-software",
+    "hex": "000000",
+    "svgFilePath": "/icons/take-two-interactive-software.svg",
+    "pngFilePath": "/icons/take-two-interactive-software.png",
+    "category": "tools"
+  },
+  {
+    "name": "The Algorithms",
+    "slug": "the-algorithms",
+    "hex": "00BCB4",
+    "svgFilePath": "/icons/the-algorithms.svg",
+    "pngFilePath": "/icons/the-algorithms.png",
+    "category": "backend"
+  },
+  {
+    "name": "The Movie Database",
+    "slug": "the-movie-database",
+    "hex": "01B4E4",
+    "svgFilePath": "/icons/the-movie-database.svg",
+    "pngFilePath": "/icons/the-movie-database.png",
+    "category": "database"
+  },
+  {
+    "name": "thirdweb",
+    "slug": "thirdweb",
+    "hex": "F213A4",
+    "svgFilePath": "/icons/thirdweb.svg",
+    "pngFilePath": "/icons/thirdweb.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Tide",
+    "slug": "tide",
+    "hex": "4050FB",
+    "svgFilePath": "/icons/tide.svg",
+    "pngFilePath": "/icons/tide.png",
+    "category": "tools"
+  },
+  {
+    "name": "Topcoder",
+    "slug": "topcoder",
+    "hex": "29A7DF",
+    "svgFilePath": "/icons/topcoder.svg",
+    "pngFilePath": "/icons/topcoder.png",
+    "category": "tools"
+  },
+  {
+    "name": "trivago",
+    "slug": "trivago",
+    "hex": "E32851",
+    "svgFilePath": "/icons/trivago.svg",
+    "pngFilePath": "/icons/trivago.png",
+    "category": "backend"
+  },
+  {
+    "name": "Trusted Shops",
+    "slug": "trusted-shops",
+    "hex": "FFDC0F",
+    "svgFilePath": "/icons/trusted-shops.svg",
+    "pngFilePath": "/icons/trusted-shops.png",
+    "category": "backend"
+  },
+  {
+    "name": "Trustpilot",
+    "slug": "trustpilot",
+    "hex": "00B67A",
+    "svgFilePath": "/icons/trustpilot.svg",
+    "pngFilePath": "/icons/trustpilot.png",
+    "category": "backend"
+  },
+  {
+    "name": "ts-node",
+    "slug": "ts-node",
+    "hex": "3178C6",
+    "svgFilePath": "/icons/ts-node.svg",
+    "pngFilePath": "/icons/ts-node.png",
+    "category": "backend"
+  },
+  {
+    "name": "TypeScript",
+    "slug": "typescript",
+    "hex": "3178C6",
+    "svgFilePath": "/icons/typescript.svg",
+    "pngFilePath": "/icons/typescript.png",
+    "category": "tools"
+  },
+  {
+    "name": "Unicode",
+    "slug": "unicode",
+    "hex": "5455FE",
+    "svgFilePath": "/icons/unicode.svg",
+    "pngFilePath": "/icons/unicode.png",
+    "category": "tools"
+  },
+  {
+    "name": "UpCloud",
+    "slug": "upcloud",
+    "hex": "7B00FF",
+    "svgFilePath": "/icons/upcloud.svg",
+    "pngFilePath": "/icons/upcloud.png",
+    "category": "devops"
+  },
+  {
+    "name": "Vector Logo Zone",
+    "slug": "vector-logo-zone",
+    "hex": "184D66",
+    "svgFilePath": "/icons/vector-logo-zone.svg",
+    "pngFilePath": "/icons/vector-logo-zone.png",
+    "category": "backend"
+  },
+  {
+    "name": "Vim",
+    "slug": "vim",
+    "hex": "019733",
+    "svgFilePath": "/icons/vim.svg",
+    "pngFilePath": "/icons/vim.png",
+    "category": "tools"
+  },
+  {
+    "name": "Vimeo",
+    "slug": "vimeo",
+    "hex": "1AB7EA",
+    "svgFilePath": "/icons/vimeo.svg",
+    "pngFilePath": "/icons/vimeo.png",
+    "category": "tools"
+  },
+  {
+    "name": "Vimeo Livestream",
+    "slug": "vimeo-livestream",
+    "hex": "0A0A20",
+    "svgFilePath": "/icons/vimeo-livestream.svg",
+    "pngFilePath": "/icons/vimeo-livestream.png",
+    "category": "tools"
+  },
+  {
+    "name": "VirusTotal",
+    "slug": "virustotal",
+    "hex": "394EFF",
+    "svgFilePath": "/icons/virustotal.svg",
+    "pngFilePath": "/icons/virustotal.png",
+    "category": "backend"
+  },
+  {
+    "name": "Vite",
+    "slug": "vite",
+    "hex": "646CFF",
+    "svgFilePath": "/icons/vite.svg",
+    "pngFilePath": "/icons/vite.png",
+    "category": "tools"
+  },
+  {
+    "name": "VitePress",
+    "slug": "vitepress",
+    "hex": "5C73E7",
+    "svgFilePath": "/icons/vitepress.svg",
+    "pngFilePath": "/icons/vitepress.png",
+    "category": "tools"
+  },
+  {
+    "name": "Vitess",
+    "slug": "vitess",
+    "hex": "F16728",
+    "svgFilePath": "/icons/vitess.svg",
+    "pngFilePath": "/icons/vitess.png",
+    "category": "tools"
+  },
+  {
+    "name": "Vitest",
+    "slug": "vitest",
+    "hex": "6E9F18",
+    "svgFilePath": "/icons/vitest.svg",
+    "pngFilePath": "/icons/vitest.png",
+    "category": "tools"
+  },
+  {
+    "name": "Void Linux",
+    "slug": "void-linux",
+    "hex": "478061",
+    "svgFilePath": "/icons/void-linux.svg",
+    "pngFilePath": "/icons/void-linux.png",
+    "category": "tools"
+  },
+  {
+    "name": "Vue.js",
+    "slug": "vue_js",
+    "hex": "4FC08D",
+    "svgFilePath": "/icons/vue_js.svg",
+    "pngFilePath": "/icons/vue_js.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Vuetify",
+    "slug": "vuetify",
+    "hex": "1867C0",
+    "svgFilePath": "/icons/vuetify.svg",
+    "pngFilePath": "/icons/vuetify.png",
+    "category": "frontend"
+  },
+  {
+    "name": "wasmCloud",
+    "slug": "wasmcloud",
+    "hex": "00BC8E",
+    "svgFilePath": "/icons/wasmcloud.svg",
+    "pngFilePath": "/icons/wasmcloud.png",
+    "category": "devops"
+  },
+  {
+    "name": "WEB.DE",
+    "slug": "web_de",
+    "hex": "FFD800",
+    "svgFilePath": "/icons/web_de.svg",
+    "pngFilePath": "/icons/web_de.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Web3.js",
+    "slug": "web3_js",
+    "hex": "F16822",
+    "svgFilePath": "/icons/web3_js.svg",
+    "pngFilePath": "/icons/web3_js.png",
+    "category": "frontend"
+  },
+  {
+    "name": "WebAssembly",
+    "slug": "webassembly",
+    "hex": "654FF0",
+    "svgFilePath": "/icons/webassembly.svg",
+    "pngFilePath": "/icons/webassembly.png",
+    "category": "frontend"
+  },
+  {
+    "name": "WebAuthn",
+    "slug": "webauthn",
+    "hex": "3423A6",
+    "svgFilePath": "/icons/webauthn.svg",
+    "pngFilePath": "/icons/webauthn.png",
+    "category": "frontend"
+  },
+  {
+    "name": "webcomponents.org",
+    "slug": "webcomponents_org",
+    "hex": "29ABE2",
+    "svgFilePath": "/icons/webcomponents_org.svg",
+    "pngFilePath": "/icons/webcomponents_org.png",
+    "category": "frontend"
+  },
+  {
+    "name": "WebdriverIO",
+    "slug": "webdriverio",
+    "hex": "EA5906",
+    "svgFilePath": "/icons/webdriverio.svg",
+    "pngFilePath": "/icons/webdriverio.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Webex",
+    "slug": "webex",
+    "hex": "000000",
+    "svgFilePath": "/icons/webex.svg",
+    "pngFilePath": "/icons/webex.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
+    "hex": "146EF5",
+    "svgFilePath": "/icons/webflow.svg",
+    "pngFilePath": "/icons/webflow.png",
+    "category": "frontend"
+  },
+  {
+    "name": "WebGL",
+    "slug": "webgl",
+    "hex": "990000",
+    "svgFilePath": "/icons/webgl.svg",
+    "pngFilePath": "/icons/webgl.png",
+    "category": "frontend"
+  },
+  {
+    "name": "WebGPU",
+    "slug": "webgpu",
+    "hex": "005A9C",
+    "svgFilePath": "/icons/webgpu.svg",
+    "pngFilePath": "/icons/webgpu.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Weblate",
+    "slug": "weblate",
+    "hex": "2ECCAA",
+    "svgFilePath": "/icons/weblate.svg",
+    "pngFilePath": "/icons/weblate.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Webmin",
+    "slug": "webmin",
+    "hex": "7DA0D0",
+    "svgFilePath": "/icons/webmin.svg",
+    "pngFilePath": "/icons/webmin.png",
+    "category": "frontend"
+  },
+  {
+    "name": "WebMoney",
+    "slug": "webmoney",
+    "hex": "036CB5",
+    "svgFilePath": "/icons/webmoney.svg",
+    "pngFilePath": "/icons/webmoney.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Webpack",
+    "slug": "webpack",
+    "hex": "8DD6F9",
+    "svgFilePath": "/icons/webpack.svg",
+    "pngFilePath": "/icons/webpack.png",
+    "category": "frontend"
+  },
+  {
+    "name": "WebRTC",
+    "slug": "webrtc",
+    "hex": "333333",
+    "svgFilePath": "/icons/webrtc.svg",
+    "pngFilePath": "/icons/webrtc.png",
+    "category": "frontend"
+  },
+  {
+    "name": "WebStorm",
+    "slug": "webstorm",
+    "hex": "000000",
+    "svgFilePath": "/icons/webstorm.svg",
+    "pngFilePath": "/icons/webstorm.png",
+    "category": "frontend"
+  },
+  {
+    "name": "WEBTOON",
+    "slug": "webtoon",
+    "hex": "00D564",
+    "svgFilePath": "/icons/webtoon.svg",
+    "pngFilePath": "/icons/webtoon.png",
+    "category": "frontend"
+  },
+  {
+    "name": "webtrees",
+    "slug": "webtrees",
+    "hex": "2694E8",
+    "svgFilePath": "/icons/webtrees.svg",
+    "pngFilePath": "/icons/webtrees.png",
+    "category": "frontend"
+  },
+  {
+    "name": "Wells Fargo",
+    "slug": "wells-fargo",
+    "hex": "D71E28",
+    "svgFilePath": "/icons/wells-fargo.svg",
+    "pngFilePath": "/icons/wells-fargo.png",
+    "category": "backend"
+  },
+  {
+    "name": "Western Digital",
+    "slug": "western-digital",
+    "hex": "995DFF",
+    "svgFilePath": "/icons/western-digital.svg",
+    "pngFilePath": "/icons/western-digital.png",
+    "category": "devops"
+  },
+  {
+    "name": "Wolfram Language",
+    "slug": "wolfram-language",
+    "hex": "DD1100",
+    "svgFilePath": "/icons/wolfram-language.svg",
+    "pngFilePath": "/icons/wolfram-language.png",
+    "category": "tools"
+  },
+  {
+    "name": "Xcode",
+    "slug": "xcode",
+    "hex": "147EFB",
+    "svgFilePath": "/icons/xcode.svg",
+    "pngFilePath": "/icons/xcode.png",
+    "category": "tools"
+  },
+  {
+    "name": "Yandex Cloud",
+    "slug": "yandex-cloud",
+    "hex": "5282FF",
+    "svgFilePath": "/icons/yandex-cloud.svg",
+    "pngFilePath": "/icons/yandex-cloud.png",
+    "category": "devops"
+  },
+  {
+    "name": "Yarn",
+    "slug": "yarn",
+    "hex": "2C8EBB",
+    "svgFilePath": "/icons/yarn.svg",
+    "pngFilePath": "/icons/yarn.png",
+    "category": "tools"
+  },
+  {
+    "name": "Zapier",
+    "slug": "zapier",
+    "hex": "FF4F00",
+    "svgFilePath": "/icons/zapier.svg",
+    "pngFilePath": "/icons/zapier.png",
+    "category": "backend"
+  },
+  {
+    "name": "Ziggo",
+    "slug": "ziggo",
+    "hex": "F48C00",
+    "svgFilePath": "/icons/ziggo.svg",
+    "pngFilePath": "/icons/ziggo.png",
+    "category": "backend"
+  }
+]
