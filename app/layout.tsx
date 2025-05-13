@@ -9,11 +9,55 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Icons.Space - Developer Icon Database",
-  description:
-    "A curated collection of high-quality developer-focused technology logos",
-  generator: "v0.dev",
+  title: "TheIcons.Space - Developer Icon Database",
+  description: "A curated collection of high-quality developer-focused technology logos.",
+  keywords: [
+    "developer icons",
+    "tech logos",
+    "programming icons",
+    "technology stack",
+    "frontend logos",
+    "backend icons",
+    "TheIcons.Space",
+    "SVG icons",
+    "SimpleIcons"
+  ],
+  metadataBase: new URL("https://theicons.space"),
+  openGraph: {
+    title: "TheIcons.Space - Developer Icon Database",
+    description: "Explore a searchable, filterable collection of high-quality technology icons for developers.",
+    url: "https://theicons.space",
+    siteName: "TheIcons.Space",
+    images: [
+      {
+        url: "/TheIcons.SpaceFavicon/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "TheIcons.Space Developer Icon Preview",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "TheIcons.Space - Developer Icon Library",
+    description: "Search, filter, and explore tech icons with ease at TheIcons.Space.",
+    images: ["/TheIcons.SpaceFavicon/og-image.png"],
+  },
+  icons: {
+    icon: [
+      { url: "/TheIcons.SpaceFavicon/favicon.ico", sizes: "any" },
+      { url: "/TheIcons.SpaceFavicon/favicon-16x16.png", type: "image/png", sizes: "16x16" },
+      { url: "/TheIcons.SpaceFavicon/favicon-32x32.png", type: "image/png", sizes: "32x32" },
+    ],
+    apple: [
+      { url: "/TheIcons.SpaceFavicon/apple-touch-icon.png", sizes: "180x180" },
+    ],
+  },
+  manifest: "/TheIcons.SpaceFavicon/site.webmanifest",
 };
+
 
 export default function RootLayout({
   children,
