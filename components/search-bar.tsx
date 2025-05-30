@@ -8,9 +8,10 @@ import { Search } from "lucide-react";
 
 type SearchBarProps = {
   origin: "page" | "header";
+  onSubmit?: () => void
 };
 
-export function SearchBar({ origin }: SearchBarProps) {
+export function SearchBar({ origin, onSubmit }: SearchBarProps) {
   const router = useRouter();
   const searchParams = useSearchParams();
   const [searchQuery, setSearchQuery] = useState(searchParams.get("q") || "");
@@ -31,7 +32,7 @@ export function SearchBar({ origin }: SearchBarProps) {
     }
 
     console.log("params", params.toString());
-
+    if (onSubmit) onSubmit()
     router.push(`/?${params.toString()}`);
   };
 
