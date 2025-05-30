@@ -1,21 +1,31 @@
-import { SearchBar } from "@/components/search-bar"
-import { LogoGrid } from "@/components/logo-grid"
-import { getAllLogos, searchLogosByQuery } from "@/lib/api"
-import { Suspense } from "react"
-import { Skeleton } from "@/components/ui/skeleton"
+import { SearchBar } from "@/components/search-bar";
+import { LogoGrid } from "@/components/logo-grid";
+import { getAllLogos, searchLogosByQuery } from "@/lib/api";
+import { Suspense } from "react";
+import { Skeleton } from "@/components/ui/skeleton";
+import { CategoryFilter } from "@/components/category-filter";
+
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "TheIcons.Space - Free Developer Technology Icons",
+  description:
+    "A curated collection of high-quality developer-focused technology logos.",
+  keywords: "developer icons, technology logos, free icons",
+};
 
 export default async function Home({
   searchParams,
 }: {
-  searchParams: { q?: string; category?: string; page?: string }
+  searchParams: { q?: string; category?: string; page?: string };
 }) {
-  const query = searchParams.q || ""
-  const category = searchParams.category || ""
-  const page = Number.parseInt(searchParams.page || "1", 10)
+  const query = searchParams.q || "";
+  const category = searchParams.category || "";
+  const page = Number.parseInt(searchParams.page || "1", 10);
 
   const { logos, total, hasMore } = query
     ? await searchLogosByQuery(query, page, 30)
-    : await getAllLogos(page, 30)
+    : await getAllLogos(page, 30);
 
   return (
     <main className="container mx-auto px-4 py-8">
@@ -24,12 +34,16 @@ export default async function Home({
           TheIcons.Space
         </h1>
         <p className="text-xl text-muted-foreground">
-          A curated collection of high-quality developer-focused technology logos
+          A curated collection of high-quality developer-focused technology
+          logos
         </p>
       </div>
 
       <div className="max-w-2xl mx-auto mb-12">
-        <SearchBar />
+        <SearchBar origin="page" />
+      <div className="mt-3">
+        <CategoryFilter selectedCategory={category} />
+      </div>
       </div>
 
       <Suspense fallback={<LogoGridSkeleton />}>
@@ -43,7 +57,7 @@ export default async function Home({
         />
       </Suspense>
     </main>
-  )
+  );
 }
 
 function LogoGridSkeleton() {
@@ -56,5 +70,5 @@ function LogoGridSkeleton() {
         </div>
       ))}
     </div>
-  )
+  );
 }

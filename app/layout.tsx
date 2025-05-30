@@ -4,14 +4,16 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
 import { Header } from "@/components/header";
-import { Toaster } from "@/components/ui/toaster";
-import { Analytics } from "@vercel/analytics/next"
+import { Toaster } from "sonner";
+import { Analytics } from "@vercel/analytics/next";
+import { CheckCircleIcon, InfoIcon, XCircleIcon } from "lucide-react";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "TheIcons.Space - Developer Icon Database",
-  description: "A curated collection of high-quality developer-focused technology logos.",
+  description:
+    "A curated collection of high-quality developer-focused technology logos.",
   keywords: [
     "developer icons",
     "tech logos",
@@ -21,12 +23,13 @@ export const metadata: Metadata = {
     "backend icons",
     "TheIcons.Space",
     "SVG icons",
-    "SimpleIcons"
+    "SimpleIcons",
   ],
   metadataBase: new URL("https://theicons.space"),
   openGraph: {
     title: "TheIcons.Space - Developer Icon Database",
-    description: "Explore a searchable, filterable collection of high-quality technology icons for developers.",
+    description:
+      "Explore a searchable, filterable collection of high-quality technology icons for developers.",
     url: "https://theicons.space",
     siteName: "TheIcons.Space",
     images: [
@@ -43,14 +46,23 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "TheIcons.Space - Developer Icon Library",
-    description: "Search, filter, and explore tech icons with ease at TheIcons.Space.",
+    description:
+      "Search, filter, and explore tech icons with ease at TheIcons.Space.",
     images: ["/TheIcons.SpaceFavicon/og-image.png"],
   },
   icons: {
     icon: [
       { url: "/TheIcons.SpaceFavicon/favicon.ico", sizes: "any" },
-      { url: "/TheIcons.SpaceFavicon/favicon-16x16.png", type: "image/png", sizes: "16x16" },
-      { url: "/TheIcons.SpaceFavicon/favicon-32x32.png", type: "image/png", sizes: "32x32" },
+      {
+        url: "/TheIcons.SpaceFavicon/favicon-16x16.png",
+        type: "image/png",
+        sizes: "16x16",
+      },
+      {
+        url: "/TheIcons.SpaceFavicon/favicon-32x32.png",
+        type: "image/png",
+        sizes: "32x32",
+      },
     ],
     apple: [
       { url: "/TheIcons.SpaceFavicon/apple-touch-icon.png", sizes: "180x180" },
@@ -58,7 +70,6 @@ export const metadata: Metadata = {
   },
   manifest: "/TheIcons.SpaceFavicon/site.webmanifest",
 };
-
 
 export default function RootLayout({
   children,
@@ -124,8 +135,23 @@ export default function RootLayout({
               </div>
             </footer>
           </div>
-          <Toaster />
           <Analytics />
+          <Toaster
+            position="top-center"
+            toastOptions={{
+              className: "rounded-lg shadow-md p-4",
+              classNames: {
+                success: "bg-primary text-primary-foreground",
+                error: "bg-destructive text-destructive-foreground",
+                info: "bg-accent text-accent-foreground",
+              },
+            }}
+            icons={{
+              success: <CheckCircleIcon />,
+              error: <XCircleIcon />,
+              info: <InfoIcon />,
+            }}
+          />
         </ThemeProvider>
       </body>
     </html>

@@ -53,6 +53,10 @@
   * {
     @apply border-border;
   }
+  *:focus-visible {
+    outline: none;
+    @apply ring-2 ring-[hsl(var(--ring)/0.8)] rounded-md;
+  }
   body {
     @apply bg-background text-foreground;
   }

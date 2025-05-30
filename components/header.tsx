@@ -4,8 +4,12 @@ import Link from "next/link"
 import { ModeToggle } from "./mode-toggle"
 import { Button } from "@/components/ui/button"
 import { Code2, Github } from "lucide-react"
+import { SearchBar } from "./search-bar"
+import FeedbackModal from "./FeedbackModal"
+import { useFeedbackStore } from "@/lib/useFeedbackStore"
 
 export function Header() {
+   const { open } = useFeedbackStore();
   return (
     <header className="sticky top-0 z-10 glass-effect">
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
@@ -17,6 +21,15 @@ export function Header() {
         </Link>
         <div className="flex items-center gap-4">
           <nav className="hidden md:flex items-center gap-6">
+            <div>
+              <SearchBar 
+                origin="header"
+              />
+            </div>
+             <button onClick={open} className="text-sm font-medium hover:text-primary transition-colors">
+            Request an Icon
+          </button>
+          <FeedbackModal />
             <Link href="/api-docs" className="text-sm font-medium hover:text-primary transition-colors">
               API
             </Link>

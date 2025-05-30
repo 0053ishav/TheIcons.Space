@@ -7,7 +7,7 @@ import { motion } from "framer-motion"
 
 interface CategoryFilterProps {
   selectedCategory: string
-  onCategoryChange: (category: string) => void
+  onCategoryChange?: (category: string) => void
 }
 
 export function CategoryFilter({ selectedCategory, onCategoryChange }: CategoryFilterProps) {
@@ -15,23 +15,19 @@ export function CategoryFilter({ selectedCategory, onCategoryChange }: CategoryF
   const searchParams = useSearchParams()
 
   const handleCategoryClick = (category: string) => {
-    onCategoryChange(category)
+  // onCategoryChange(category);
 
-    const params = new URLSearchParams(searchParams.toString())
-    const query = params.get("q")
+  const params = new URLSearchParams(searchParams.toString());
+  const query = params.get("q");
 
-    const newParams = new URLSearchParams()
-
-    if (query) {
-      newParams.set("q", query)
-    }
-
-    if (category && category !== selectedCategory) {
-      newParams.set("category", category)
-    }
-
-    router.push(`/?${newParams.toString()}`)
+  if (category && category !== selectedCategory) {
+    params.set("category", category);
+  } else {
+    params.delete("category");
   }
+
+  router.push(`/?${params.toString()}`);
+};
 
   return (
     <motion.div
