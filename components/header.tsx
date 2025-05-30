@@ -7,6 +7,7 @@ import { Code2, Github } from "lucide-react"
 import { SearchBar } from "./search-bar"
 import FeedbackModal from "./FeedbackModal"
 import { useFeedbackStore } from "@/lib/useFeedbackStore"
+import { Suspense } from "react"
 
 export function Header() {
    const { open } = useFeedbackStore();
@@ -22,9 +23,11 @@ export function Header() {
         <div className="flex items-center gap-4">
           <nav className="hidden md:flex items-center gap-6">
             <div>
+              <Suspense fallback={<SearchBarSkeleton />}>
               <SearchBar 
                 origin="header"
-              />
+                />
+                </Suspense>
             </div>
              <button onClick={open} className="text-sm font-medium hover:text-primary transition-colors">
             Request an Icon
@@ -50,4 +53,12 @@ export function Header() {
       </div>
     </header>
   )
+}
+
+export function SearchBarSkeleton() {
+  return (
+    <div className="flex items-center space-x-2 w-full">
+      <div className="flex-1 h-10 rounded-md bg-muted animate-pulse" />
+    </div>
+  );
 }
